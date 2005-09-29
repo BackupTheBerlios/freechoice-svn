@@ -1,10 +1,12 @@
-PLAN DE NEGOCIO
+﻿PLAN DE NEGOCIO
 ---------------
 
 INTRODUCCION:
 ------------
 
 Titulo: Servicio de migración, soporte, integración, capacitación y extensión de software libre.
+*
+El plan de negocios es presentado por Chuang Po Ming, Floreani Luis, Giardina Mariano y Sevilla Alejandro. La finalidad del plan de negocios es conseguir financiación para el proyecto (En realidad para aprobar la materia)
 
 
 Enfocado a:
@@ -26,6 +28,7 @@ Poca flexibilidad de adaptación al modelo de negocio.
 Poca o nula influencia de la organización en la evolución del software.
 Cuando no hay mas soporte de una versión, uno se ve obligado a “upgradear” con los respectivos costos de licencia.
 Altos costos de licencias.
+*Posibles deficiencias de seguridad y poca transparencia de los sistemas de seguridad usados.
 
 Una solución a estos problemas es el software libre, sin embargo, las organizaciones que desean migrar a un modelo de software libre se ven dificultadas por la falta de soporte necesario para lograr el cambio.
 
@@ -36,6 +39,8 @@ Ventajas de un modelo de negocios basado en software libre:
 Libertad ante la elección de proveedores al manejar formato de documentos abiertos.
 Constante refinamiento del software por la comunidad de desarrolladores (local ó global).
 Posibilidad de adaptar el software al modelo de negocio de cada empresa.
+*Total transparencia de lo que el software hace.
+*Formato de datos portable.
 
 Ventajas para el Estado y Universidades:
 ---------------------------------------
@@ -62,12 +67,14 @@ MISION:
 
 			Actual					A Futuro
 			------					--------
-Ambito del Producto	Servidores básicos y Desktop.		CRM, ERP, BI, PM
-Ambito del Mercado	Estado, Universidades			Empresas y otras Organizaciones
-Ambito Geografico	Gran Mendoza				Argentina
+Ámbito del Producto	Servidores básicos y Desktop.		CRM, ERP, BI, PM
+Ámbito del Mercado	Estado, Universidades			Empresas y otras Organizaciones
+Ámbito Geográfico	Gran Mendoza				Argentina
 ESTRATEGIA 
 (Como lograr V.C)	Diferenciación (dedicación 		Abarcar nuevos mercados
 			exclusiva al servicio de 
 			migración) + Foco (Estado 
 			y Universidades)
+
+
 
