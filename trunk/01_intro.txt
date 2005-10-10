@@ -33,6 +33,7 @@ Si bien existen soluciones de software propietario para las organizaciones, esto
 . Poca flexibilidad de adaptación al modelo de negocio.
 . Poca o nula influencia de la organización en la evolución del software.
 . Cuando no hay mas soporte de una versión, uno se ve obligado a “upgradear” con los respectivos costos de licencia.
+. Suelen tener mayores requerimientos de hardware que alternativas de SF.
 . Altos costos de licencias.
 . Posibles deficiencias de seguridad y poca transparencia de los sistemas de seguridad usados.
 -----------------------------------------------
@@ -45,6 +46,7 @@ Ventajas de un modelo de negocios basado en software libre:
 
 ---------------------------------------------------
 . Libertad ante la elección de proveedores al manejar formato de documentos abiertos.
+. Diversidad de software.
 . Constante refinamiento del software por la comunidad de desarrolladores (local ó global).
 . Posibilidad de adaptar el software al modelo de negocio de cada empresa.
 . Total transparencia de lo que el software hace.

@@ -26,41 +26,29 @@ Restricciones sociales y gubernamentales: bajo.
 DEMANDA:
 -------
 
-Universidades:
+Universidades (¿? PCs)
+	Universidades Nacionales
+		UNC
+		UTN.
+	Universidades Privadas 
+		UM.
+		UC.
+		Aconcagua.
+		Champagnat.
+		San Francisco.
+		Maza.
 
-UNC.
-UM.
-UC.
-Aconcagua.
-Champagnat.
-San Francisco.
-UTN.
-Maza.
 
-Estado:
-
-1.PODER LEGILSATIVO:
-1.1.HONORABLE CAMARA DE DIPUTADOS:
-1.1.1.TERMINALES: 56 PC’S EN EDIFICIO CENTRAL + 32 PC’S EN ANEXOS
-1.1.2.SERVIDORES: 1 WEB SERVER + 1 SERVER DEL SISTEMA INTERNO + 1 MAIL SERVER
-1.2.HONORABLE CAMARA DE SENADORES:
-1.2.1.TERMINALES: 115 PC’S EN EDIFICIO CENTRAL + 50 PC’S EN ANEXOS
-1.2.2.SERVIDORES: 1 WEB SERVER + 2 SERVIDORES DEL SISTEMA INTERNO + 1 MAIL SERVER
-2.PODER EJECUTIVO (SOLO EDIFICIO CENTRAL, SIN ANEXOS O SUBSECRETARIAS, DEPENDENCIAS O DIRECCIONES)
-2.1.TERMINALES: 760 PC’S APROXIMADAMENTE
-2.2.SERVIDORES: 3 WEB SERVERS + 2 SERVIDORES DEL SISTEMA INTERNO + 2 MAIL SERVERS
-3.PODER JUDICIAL(SOLO EDIFICIO CENTRAL, SIN JUZGADOS DE PAZ NI ANEXOS, DEPENDENCIAS O DIRECCIONES)
-3.1.TERMINALES:820 PC’S APROXIMADAMENTE
-3.2.SERVIDORES: 2 WEB SERVERS + 3 SERVIDORES DEL SISTEMA INTERNO + 2 MAIL SERVERS
-4.MUNICIPALIDAD DE CAPITAL (SOLO EDIFICIO CENTRAL, SIN ANEXOS,SUBSECRETARIAS, DEPENDENCIAS O DIRECCIONES)
-4.1.TERMINALES: 260 PC’S APROXIMADAMENTE
-4.2.SERVIDORES: 1 WEB SERVERS + 2 SERVIDORES DEL SISTEMA INTERNO + 1 MAIL SERVERS
-
-nota: De los servers, 50% son Linux y 50% son Windows; las estaciones son 100% Windows.
 
 NOMINA DE AUTORIDADES DEL ESTADO (http://www.mendoza.gov.ar/paginas/nominas/)
 
-Poder Ejecutivo 
+El 1% de las PCs son servers (Web, Mail, DB & Application Servers).
+De este 1%, un 10% son servidores Linux (para routing y firewalling).
+No se usa Linux como Desktop.
+
+Hay alrededor de 30 centros de computos del estado en el gran Mendoza.
+
+Poder Ejecutivo (2000 PCs)
 	Gobernación 
 		Asesores del Sr. Gobernador 
 	Secretaría Administrativa, Legal y Técnica 
@@ -81,7 +69,6 @@ Poder Ejecutivo
 		Asesores del Ministerio de Economía 
 		Organismos dependientes del Min. de Economía 
 		Organismos descentralizados del Min. de Economía 
-. 
 	Ministerio de Salud 
 		Asesores del Ministerio de Salud 
 		Organismos dependientes del Ministerio de Salud 
@@ -109,25 +96,30 @@ Poder Ejecutivo
 	Ministerio de Desarrollo Social 
 		Organismos dependientes del Ministerio de Desarrollo Social 
 		Organismos descentralizados 
-Poder Legislativo 
+
+Poder Legislativo (600 PCs)
 	Vicegobernación 
 	Honorable Cámara de Senadores 
 		Senadores Provinciales (38) 
 	Honorable Cámara de Diputados 
 		Diputados Provinciales 
 	Legisladores Nacionales por Mendoza 
-Poder Judicial 
+
+Poder Judicial (2000 PCs)
 	Suprema Corte de Justicia 
 	Tribunal de cuentas 
-	Justicia Federal 
-Otros Organismos 
+	Justicia Federal
+ 
+Otros Organismos (1400 PCs)
 	Intendencias 
 	Autoridades Eclesiásticas 
 	Fuerzas Armadas y Seguridad 
 	Cuerpo Consular 
 	Sres. Ex Gobernadores de Mendoza 
-	Universidades Nacionales 
-	Universidades Privadas 
 	Instituciones Culturales y Patrióticas 
 	Autoridades Nacionales con Asiento en Mendoza 
 	Gobernadores de provincias
+
+TOTAL: 6000 PCs (de las cuales 60 son servers)
+
+
