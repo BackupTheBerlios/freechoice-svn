@@ -1,0 +1,95 @@
+Los siguientes gastos corresponden al detalle "EQUIPOS Y ACCESORIOS PARA COMPUTACION" del presupuesto 2005.
+Habrá que sacar que proporcion corresponde a licencias de software. 
+
+LEGISLATURA, PODERES, TRIBUNAL DE CUENTAS Y FISCALIA DE ESTADO
+	
+	Poder Legislativo :  							-> 	60000
+	Poder Judicial:  							-> 	2600000
+	Tribunal de cuentas:  							-> 	100000
+	Fiscalia:  								-> 	68000
+								subtotal	->	2.828.000
+
+
+MINISTERIO DE GOBIERNO								-> 	615000
+								subtotal	->	615.000	
+
+MINISTERIO DE HACIENDA
+	
+	Dpto. Central			 					-> 	94000
+	
+	DETALLE DE EROGACIONES DE LAS UNIDADES ORGANIZATIVAS:
+		Direccion de Finanzas 						-> 	63000
+		Contaduria 							-> 	280000
+		Rentas 								-> 	180000
+		Tesoreria 							-> 	40000
+		Direccion de Compras 						-> 	12500
+		Direccion Provincial de Informatica 				-> 	203000
+		Direccion Provincial de Catastro 				-> 	283000
+		Oficina Tecnica 						-> 	8000
+		DAABO 								-> 	30000
+		SIPTCAT 							-> 	57000
+		CAJA DE SEGURO 							-> 	13000
+								subtotal	->	1.263.500		
+
+
+DIRECCION GENERAL DE ESCUELAS		 					-> 	32000
+								subtotal	->	32.000
+
+
+MINISTERIO DE ECONOMIA
+	
+	Dpto. Central								-> 	37000
+	
+	DETALLE DE EROGACIONES DE LAS UNIDADES ORGANIZATIVAS:
+		Direccion de Estadisticas 					-> 	2000
+		Direccion de Mineria 						-> 	20000
+		Direccion de Agricultura 					-> 	6000
+		Direccion de promocion de PYMES 				-> 	11000 
+								subtotal	->	76.000
+
+
+MINISTERIO DE AMBIENTE Y OBRAS PUBLICAS
+
+	Dpto. Central			 					-> 	5000
+
+	DETALLE DE EROGACIONES DE LAS UNIDADES ORGANIZATIVAS:
+		Dirección de Hidraulica 					-> 	12300
+		Direccion de Vias y medios de Transporte 			-> 	11000
+		Direccion de ordenamiento ambiental 				-> 	3500
+		Direccion de saneamiento y control ambiental 			-> 	50000
+		Direccion de ejecucion 						-> 	5500
+		Direccion de vialidad 						-> 	10000
+		Empresa provincial de transporte 				-> 	150000
+		Instituto provincia de la vivienda 				-> 	295000
+								subtotal	->	542.300
+		
+
+MINISTERIO DE TURISMO Y CULTURA
+	
+	Dpto. Central								-> 	40000
+	
+	DETALLE DE EROGACIONES DE LAS UNIDADES ORGANIZATIVAS:
+		Subsecretaria de turismo 					-> 	6000
+		Subsecretaria de cultura 					-> 	60000
+								subtotal	->	106.000
+
+
+MINISTERIO DE JUSTICIA Y SEGURIDAD						-> 	1000000
+								subtotal	->	1.000.000
+
+MINISTERIO DE DESARROLLO SOCIAL Y SALUD
+	
+	Hospitales varios 							-> 	57000
+	Hospital Notti 								-> 	60000
+	Hospital El Sauce 							-> 	30000
+	Hospital Perrupato 							-> 	24000
+	Hospital El carmen 							-> 	61000
+	Sanatorio Flemming 							-> 	90000
+	Fondo de inversion y desarrollo social 					-> 	100000
+	Subsecretaria de desarrollo social 					-> 	123000
+	Subsecretaria de salud 							-> 	178000
+	Direrccion gral. obra social de empleados publicos 			-> 	700000
+								subtotal	->	1.423.000
+
+TOTAL:	7.885.800
+=====
