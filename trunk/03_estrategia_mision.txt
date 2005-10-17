@@ -1,9 +1,31 @@
+MISION
+======
+
+	PROPÓSITO
+	---------
+	El proposito de la empresa sera el de brindar servicio de migración, soporte, integración, capacitación y extensión de sistemas de software de manera rápida y confiable a universidades y al estado.
+	La empresa venderá confiabilidad, libertad y transparencia de sistemas de software.
+
+	VISIÓN
+	---------
+	Al proporcionar un servicio rápido y confiable a manos de gente altamente calificada la empresa ganará reconocimiento en este mercado y una carta de 
+	clientes satisfechos dispuestos a seguir confiando en la empresa y a recomendar nuestros servicios.
+
+	MISION
+	---------
+	El objetivo a corto plazo es el de convocar gente capacitada y actualizarla en temas relacionados a nuestro negocio  y el de realizar campañas que motiven 
+	la migración al software libre. A su vez, a corto plazo se deberá afianzar el nombre de la empresa como una empresa confiable y con recursos humanos altamente capacitados.
+	El objetivo a largo plazo es el de tener una carta de clientes satisfechos comprometidos con la empresa hacia nuestros servicios y ampliar el mercado a nivel
+	nacional.
+
+
 ------------------------
 ------------------------
+
 ESTRATEGIA
 ==========
 La Estrategia de la empresa estara basada en la diferenciación y el foco.
-La empresa hará foco exclusivamente en el sector de las universidades y el estado, pero tambien dejará habierta la posibilidad de prestar sus servicios a empresas o 
+La empresa hará foco exclusivamente en el sector de las universidades y el estado, pero tambien dejará abierta la posibilidad de prestar sus servicios a empresas o 
 a consumidores finales, sin hacer ningun tipo de publicidad para estos ultimos dos.
 Para lograr la diferenciación la empresa tendrá un plantel de especialistas en software libre, que asistirán a cursos  eventos del tema periódicamente. Con 
 recursos humanos altamente capacitados la empresa logrará realizar sus trabajos en tiempos mínimos brindando a la vez seguridad a sus clientes.
@@ -12,22 +34,47 @@ recursos humanos altamente capacitados la empresa logrará realizar sus trabajos 
 
 -------------------------------------------------------------------------------
 
-MISION
-======
-	PROPÓSITO
-	---------
-	El proposito de la empresa sera el de brindar servicio de migración de sistemas de software de manera rápida y confiable a universidades y al estado.
-	La empresa venderá optimización y confiabilidad de sistemas de software.??????...
-	VISIÓN
-	---------
-	Al proporcionar un servicio rápido y confiable a manos de gente altamente calificada la empresa ganará reconocimiento en este mercado y una carta de 
-	clientes satisfechos dispuestos a seguir confiando en la empresa y a recomendar nuestros servicios.
-	MISION
-	---------
-	El objetivo a corto plazo es el de convocar gente capacitada y actualizarla en temas relacionados a nuestro negocio  y el de realizar campañas que motiven 
-	la migración al software libre. A su vez a corto plazo se deberá afianzar el nombre de la empresa como una empresa confiable y con recursos humanos altamente capacitados.
-	El objetivo a largo plazo es el de tener una carta de clientes satisfechos comprometidos con la empresa hacia nuestros servicios y ampliar el mercado a nivel
-	nacional.
+
+
+Cuadro de misión y estrategia:
+
+`--------------------`------------------------------------`---------------------
+			Actual					A Futuro
+--------------------------------------------------------------------------------
+Ámbito del Producto	Servidores básicos y Desktop.		CRM, ERP, BI, PM
+Ámbito del Mercado	Estado, Universidades			Empresas y otras Organizaciones
+Ámbito Geográfico	Gran Mendoza				Argentina
+ESTRATEGIA 
+(Como lograr V.C)	Diferenciación (dedicación 		Abarcar nuevos mercados
+			exclusiva al servicio de 
+			migración) + Foco (Estado 
+			y Universidades)
+--------------------------------------------------------------------------------
+
+
 	ESLOGAN
 	-------
-	"Free Choice,su camino al futuro.....(Que sanataaa.......)"
+
+	Columna de humor:
+
+	"Free Choice: libertad y transparencia"
+	"Free Choice: su camino al futuro"
+	"Free Choice: libertad para tus negocios"
+	"Free Choice: kill bill!!!"
+	"Free Choice: anda todo jamon"
+	"Free Choice: sale como un toro"
+	"Free Choice: Free Choice"
+	"Free Choice: Freedom!!!!!"
+	"Free Choice: vos elegiste, ahora te la aguantas"
+	"Free Choice: highway to hell"
+	"Free Choice: destructores de ventanas"
+	"Free Choice: guarda con la ventana!"
+	"Free Choice: a peso el software"
+	"Free Choice: todo x 2 mangos"
+	"Free Choice: el pinguino interestelar"
+	"Free Choice: es todo mentira, no creas lo que te dicen"
+	"Free Choice: REVOLUCION!!!"
+	"Free Choice: sublevece a su jefe YA"
+	"Free Choice: equilibrio, cuerpo y alma"
+	"Free Choice: vamos mis valientes!"
+	
