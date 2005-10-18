@@ -1,0 +1,87 @@
+PLAN DE MARKETING
+
+·PRODUCTOS/SERVICIOS
+
+El servicio a prestar esta basado en la migración completa a software libre o la instalación del mismo si no hay implementación alguna. Nuestra intención es evaluar el éxito de cada instalación y hacer el seguimiento para realizar las modificaciones necesarias que mejoren la eficacia a cada cliente.
+El servicio incluye la instalación entre las distintas plataformas existentes, previa evaluación para determinar cual es la optima para las exigencias del cliente. Entre ellas contamos con:
+
+PARA SERVIDORES:
+DEBIAN
+
+
+PARA PUESTOS DE TRABAJO:
+		DEBIAN
+		UBUNTU
+		MANDRAKE
+		RED HAT
+		
+
+Para remplazar las aplicaciones típicas contamos con:
+
+	MS OFFICE =>  OPEN OFFICE
+	IEXPLORER=>  MOZILLA FIREFOX
+	
+En el caso de que no exista software equivalente para la migración se evaluaran los distintos software propietarios.
+
+Los beneficios son amplios y contundentes, considerando como base la amplia comunidad de desarrollo que actualmente en auge lidera los grupos de desarrollo. 
+
+La independencia tecnológica: mediante el uso de software libre, la empresa (o Estado) deja de tener sus sistemas controlados por una entidad externa (con frecuencia empresas extranjeras). De esta forma se rompe la dependencia tecnológica que lo tiene actualmente atado, obteniendo las libertades que el software libre otorga.
+El control de la información al tener la libertad de inspeccionar el mecanismo de funcionamiento del software y la manera en que almacena los datos, sumado a la posibilidad de modificar( o contratar con alguien que modifique )estos aspectos, quedando en manos de las empresas el acceso a la información y no en manos de terceros ajenos.
+La seguridad es uno de los puntos claves, mucha información puede ser peligrosa en manos incorrectas. Es critico que la Empresa pueda fiscalizar que su software no tenga puertas de entradas traseras (backdoors), ya sean voluntarias o accidentales, que pueda cerrarlas en caso de encontrarlas, esta inspección solo es posible en el caso de software libre.
+
+PRECIO
+
+Inicialmente, nuestra capacidad de influir sobre el precio se verá limitada por lo que perciba la competencia (si bien es escasa, los tomaremos de referencia). Sin embargo, esperamos que las recomendaciones de nuestros clientes consoliden nuestro negocio y que los servicios que ofrecemos se coticen a una tarifa algo superior a la promedio.
+
+Servidores: $40 por hora, la  demora promedio en la instalación es de 2 horas.
+Estaciones de trabajo: 
+
+
+DISTRIBUCIÓN
+
+La distribución se hará en forma directa, no participaran intermediarios. Nuestros operadores se trasladaran al domicilio de la Empresa o institución para evaluar las posibilidades y presupuestar el trabajo.
+El alcance pensado es el Gran Mendoza, ya que contamos con suficientes posibles clientes, pero sin dejar de esperar un crecimiento a un nivel provincial.
+(mapa gran Mendoza)
+
+El establecimiento será en el centro de la Capital, si bien no es necesario una gran infraestructura ya que el servicio que vendemos no esta dirigido a la población general, sino a empresas que ante la necesidad o nuestra oferta personalizada accedan al cambio.
+
+
+COMUNICACIÓN
+
+El objeto de la comunicación será darle a conocer al las empresas las ventajas del uso del software libre, principalmente “Libertad y Seguridad en sus negocios“.
+Los medios de comunicación para promover el servicio serán: 
+	Medios Masivos: 	Radios: MITRE 
+				Revistas: PYME 
+				Diarios: Clarín, Los Andes, UNO 
+				Paginas Amarillas
+
+Marketing Directo:	Personal de Ventas: El personal visitara a las distintas empresas ofreciendo el servicio.
+
+Licitaciones:	Presensación a llamados de licitación en entidades públicas.
+
+Internet:	Sitio Web propio
+		Buscadores(1)
+
+Boca a Boca: 	Recomendaciones de nuestros clientes.
+
+(1)Según la revista Pyme (DIR) la empresa InZearch ofrece un servicio para hacer publicidad en los principales buscadores (Google,Yahoo, MSN, TERRA,etc), el costo es proporcional a la cantidad de clics hechos en el link (desde $500) . Según D`Alessio/Irol en nuestro país existen 7.600.000 usuarios de Internet, de los cuales 6.600.000 consulta on line antes de decidir una compra o contratación. 
+
+
+
+
+Plan de Comunicaciones ( 1er año)
+
+Recursos Humanos
+
+(ORGANIGRAMA OPTIMO DE LA EMPRESA)
+(ORGANIGRAMA MINIMO) es el inicial
+
+Cantidad de personas necesarias ( entre 2 a 5 años)
+
+Costos de contratación y remuneración
+
+ 
+
+
+
+
