@@ -1,10 +1,10 @@
-ÔªøPLAN DE NEGOCIO
+PLAN DE NEGOCIO
 ===============
 
-INTRODUCCION:
-------------
+PARTE 1: INTRODUCCION
+---------------------
 
-Titulo: Servicio de migraci√≥n, soporte, integraci√≥n, capacitaci√≥n y extensi√≥n de software libre.
+Titulo: Servicio de migraciÛn, soporte, integraciÛn, capacitaciÛn y extensiÛn de software libre.
 
 ****************
 Autores:
@@ -20,7 +20,8 @@ Enfocado a:
 . Estado
 --------------
 
-Tambi√©n se dar√° servicio a Empresas y Organizaciones en general.
+	
+TambiÈn se dar· servicio a Empresas y Organizaciones en general.
 
 
 Necesidades identificadas:
@@ -31,21 +32,21 @@ Si bien existen soluciones de software privativo para las organizaciones, estos 
 -----------------------------------------------
 . Se generan dependecias hacia el proveedor de software.
 . No se puede adaptar a las necesidades cambiantes de cada negocio (software enlatado).
-. Poca o nula influencia de la organizaci√≥n en la evoluci√≥n del software.
-. Cuando no hay mas soporte de una versi√≥n, uno se ve obligado a ‚Äúupgradear‚Äù con los respectivos costos de licencia.
+. Poca o nula influencia de la organizaciÛn en la evoluciÛn del software.
+. Cuando no hay mas soporte de una versiÛn, uno se ve obligado a 'upgradear' con los respectivos costos de licencia.
 . Suelen tener mayores requerimientos de hardware que alternativas de SF.
 . Altos costos de licencias.
 . Poca transparencia de los sistemas de seguridad usados.
 -----------------------------------------------
 
-Una soluci√≥n a estos problemas es el software libre, sin embargo, las organizaciones que desean migrar a un modelo de software libre se ven dificultadas por la falta de soporte necesario para lograr el cambio.
+Una soluciÛn a estos problemas es el software libre, sin embargo, las organizaciones que desean migrar a un modelo de software libre se ven dificultadas por la falta de soporte necesario para lograr el cambio.
 
 
 Ventajas de un modelo de negocios basado en software libre:
 ----------------------------------------------------------
 
 ---------------------------------------------------
-. Libertad ante la elecci√≥n de proveedores al manejar formatos de documentos abiertos.
+. Libertad ante la elecciÛn de proveedores al manejar formatos de documentos abiertos.
 . Posibilidad de adaptar el software al modelo de negocio de cada empresa.
 . Total transparencia de lo que el software hace.
 . Formato de datos portable.
@@ -60,21 +61,21 @@ Ventajas para el Estado y Universidades:
 ---------------------------------------
 
 --------------------------------------------------
-. Resguardo de la informaci√≥n de los ciudadanos  (evita posibles backdoors).
+. Resguardo de la informaciÛn de los ciudadanos  (evita posibles backdoors).
 . Promueve la industria local de software.
-. Evita obligar a los ciudadanos a comprar licencias privativas para que estos puedan recibir la informaci√≥n que soliciten. 
-	Vease Ley 104 - Ley de Acceso a la Informaci√≥n:
+. Evita obligar a los ciudadanos a comprar licencias privativas para que estos puedan recibir la informaciÛn que soliciten. 
+	Vease Ley 104 - Ley de Acceso a la InformaciÛn:
 	http://www.cedom.gov.ar/es/legislacion/normas/leyes/html/ley104.html
 --------------------------------------------------
 
-Soluci√≥n:
+SoluciÛn:
 --------
 
-1.Ofrecer un servicio de migraci√≥n del software privativo existente en la organizaci√≥n, con la soluci√≥n de migrar completamente √≥ estudiar la posible coexistencia de software libre con software privativo.
+1.Ofrecer un servicio de migraciÛn del software privativo existente en la organizaciÛn, con la soluciÛn de migrar completamente Û estudiar la posible coexistencia de software libre con software privativo.
 
-2.Ofrecer soporte t√©cnico a las organizaciones que posean un modelo basado en software libre.
+2.Ofrecer soporte tÈcnico a las organizaciones que posean un modelo basado en software libre.
 
-3.Capacitaci√≥n del personal para adaptarse al cambio.
+3.CapacitaciÛn del personal para adaptarse al cambio.
 
-4.Posibilidad de extensi√≥n y adaptaci√≥n de soluciones existentes de software libre al modelo de negocio especifico de cada organizaci√≥n.
+4.Posibilidad de extensiÛn y adaptaciÛn de soluciones existentes de software libre al modelo de negocio especifico de cada organizaciÛn.
 

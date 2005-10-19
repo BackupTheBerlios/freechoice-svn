@@ -1,5 +1,5 @@
-ESTUDIO DE MERCADO 
--------------------
+PARTE 2: ESTUDIO DE MERCADO 
+--------------------------
 
 BARRERA  DE ENTRADA: Bajas
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -7,7 +7,7 @@ BARRERA  DE ENTRADA: Bajas
 -------------------
 Requerimientos de capital: medio.
 Efectos de aprendizaje: alto.
-Proteccionismo gubernamental: Â¿?
+Proteccionismo gubernamental: ¿?
 Acceso a canales de distribucion: bajo.
 Acceso a materias primas criticas: bajo.
 Acceso a tecnologias avanzadas: bajo.
@@ -19,7 +19,7 @@ BARRERAS DE SALIDA: Bajas.
 
 -------------------
 Regulaciones laborales: bajo.
-Activos poco realizables o de difÃ­cil reconversiÃ³n: bajo.
+Activos poco realizables o de difícil reconversión: bajo.
 Compromisos contractuales a largo plazo con los clientes: posiblemente alto.
 Barreras emocionales: bajo.
 Restricciones sociales y gubernamentales: bajo.
@@ -60,46 +60,46 @@ No se usa Linux como Desktop.
 Hay alrededor de 30 centros de computos del estado en el gran Mendoza.
 
 Poder Ejecutivo (2000 PCs)
-	GobernaciÃ³n 
+	Gobernación 
 		Asesores del Sr. Gobernador 
-	SecretarÃ­a Administrativa, Legal y TÃ©cnica 
-		Organismos Dependientes de la SecretarÃ­a Administrativa, Legal y TÃ©cnica 
+	Secretaría Administrativa, Legal y Técnica 
+		Organismos Dependientes de la Secretaría Administrativa, Legal y Técnica 
 	Ministerio de Gobierno 
 		Asesores del Min. de Gobierno 
 		Organismos dependientes del Min. de Gobierno 
 	Ministerio de Justicia y Seguridad 
 		Asesores del Min. de Justicia y Seguridad 
 		Organismos dependientes del Ministerio de Justicia y Seguridad 
-		PolicÃ­as de Mendoza 
+		Policías de Mendoza 
 	Ministerio de Hacienda 
 		Asesores del Ministerio de Hacienda 
 		Organismos dependientes del Ministerio de Hacienda 
 		Organismos descentralizados del Ministerio de Hacienda 
-		Organismos de la ConstituciÃ³n dependiente de la Sub. de Hacienda 
-	Ministerio de EconomÃ­a 
-		Asesores del Ministerio de EconomÃ­a 
-		Organismos dependientes del Min. de EconomÃ­a 
-		Organismos descentralizados del Min. de EconomÃ­a 
+		Organismos de la Constitución dependiente de la Sub. de Hacienda 
+	Ministerio de Economía 
+		Asesores del Ministerio de Economía 
+		Organismos dependientes del Min. de Economía 
+		Organismos descentralizados del Min. de Economía 
 	Ministerio de Salud 
 		Asesores del Ministerio de Salud 
 		Organismos dependientes del Ministerio de Salud 
 			Organismos descentralizados dependientes del Min. de Salud 
 		Hospitales 
 		Organismos descentralizados del Ministerio de Salud 
-	Ministerio de Ambiente y Obras PÃºblicas 
-		Asesores del Ministerio de Ambiente y Obras PÃºblicas 
-		Organismos dependientes del Ministerio de Ambiente y Obras PÃºblicas 
+	Ministerio de Ambiente y Obras Públicas 
+		Asesores del Ministerio de Ambiente y Obras Públicas 
+		Organismos dependientes del Ministerio de Ambiente y Obras Públicas 
 		Empresas del Estado Provincial 
 		Organismos Descentralizados 
 	Organismos Constitucionales 
-		DirecciÃ³n General de Escuelas 
-			Asesores de la DirecciÃ³n General de Escuelas 
-			Organismos dependientes de la DirecciÃ³n General de Escuelas 
-		FiscalÃ­a de Estado 
-		Departamento General de IrrigaciÃ³n 
-		AsesorÃ­a de Gobierno 
-		TesorerÃ­a General de la Provincia 
-		ContadurÃ­a General de la Provincia 
+		Dirección General de Escuelas 
+			Asesores de la Dirección General de Escuelas 
+			Organismos dependientes de la Dirección General de Escuelas 
+		Fiscalía de Estado 
+		Departamento General de Irrigación 
+		Asesoría de Gobierno 
+		Tesorería General de la Provincia 
+		Contaduría General de la Provincia 
 		Tribunal de Cuentas 
 	Ministerio de Turismo y Cultura 
 		Organismos dependientes del Ministerio de Turismo y Cultura 
@@ -109,10 +109,10 @@ Poder Ejecutivo (2000 PCs)
 		Organismos descentralizados 
 
 Poder Legislativo (600 PCs)
-	VicegobernaciÃ³n 
-	Honorable CÃ¡mara de Senadores 
+	Vicegobernación 
+	Honorable Cámara de Senadores 
 		Senadores Provinciales (38) 
-	Honorable CÃ¡mara de Diputados 
+	Honorable Cámara de Diputados 
 		Diputados Provinciales 
 	Legisladores Nacionales por Mendoza 
 
@@ -123,11 +123,11 @@ Poder Judicial (2000 PCs)
  
 Otros Organismos (1400 PCs)
 	Intendencias 
-	Autoridades EclesiÃ¡sticas 
+	Autoridades Eclesiásticas 
 	Fuerzas Armadas y Seguridad 
 	Cuerpo Consular 
 	Sres. Ex Gobernadores de Mendoza 
-	Instituciones Culturales y PatriÃ³ticas 
+	Instituciones Culturales y Patrióticas 
 	Autoridades Nacionales con Asiento en Mendoza 
 	Gobernadores de provincias
 
@@ -136,5 +136,3 @@ Otros Organismos (1400 PCs)
 **********************************************
 TOTAL: 6000 PCs (de las cuales 60 son servers)
 **********************************************
-
-

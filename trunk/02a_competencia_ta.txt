@@ -1,5 +1,5 @@
 ANALISIS DE LA COMPETENCIA:
-==========================
+---------------------------
 
 ****************************
 CASO 1) TECNOLOGIA APLICADA:
@@ -8,12 +8,12 @@ CASO 1) TECNOLOGIA APLICADA:
 Benchmarking:
 ------------
 
-    	* Descripci√≥n del servicio:
+    	* DescripciÛn del servicio:
 
-	. Instalaci√≥n y Configuraci√≥n de Sistemas Operativos de Redes:
-	Microsoft ‚Äì Novell ‚Äì Linux, sabiendo aprovechar lo mejor de cada uno de ellos.
-	. Cursos de Capacitaci√≥n ya sea en forma grupal o personalizados:
-    	El vertiginoso desarrollo del mercado inform√°tico exige actualizaci√≥n constante, no basta 		invertir en tecnolog√≠a, hay que saber usarla, entrenar empleados y clientes a medida de 	las necesidades tecnol√≥gicas de su empresa.
+	. InstalaciÛn y ConfiguraciÛn de Sistemas Operativos de Redes:
+	Microsoft - Novell - Linux, sabiendo aprovechar lo mejor de cada uno de ellos.
+	. Cursos de CapacitaciÛn ya sea en forma grupal o personalizados:
+    	El vertiginoso desarrollo del mercado inform·tico exige actualizaciÛn constante, no basta 		invertir en tecnologÌa, hay que saber usarla, entrenar empleados y clientes a medida de 	las necesidades tecnolÛgicas de su empresa.
 
     	* Precios:
 	falta.
@@ -27,7 +27,7 @@ Benchmarking:
     	* Recursos humanos:
 	falta.
 
-    	* Tecnolog√≠a:
+    	* TecnologÌa:
 	Linux, Unix, Windows, Novell.
 	falta mas.
 
@@ -40,13 +40,13 @@ Benchmarking:
 Fortalezas: 
 ----------
 
-Poseen mas de 6 a√±os de experiencia con servicios de software libre (Linux).
+Poseen mas de 6 aÒos de experiencia con servicios de software libre (Linux).
 Poseen buen posicionamiento y alianzas en Mendoza.
 Poseen productos desarrollados por ellos:
 
-	. PuntoCero: Es el producto clave para conectar su empresa a Internet. Por medio de un poderoso Firewall aislar√° la red interna de la externa (Internet), no corriendo de esta 	forma los riesgos t√≠picos al conectarse con el mundo exterior. Est√° basado en un robusto sistema operativo inmune a los virus y muy confiable
+	. PuntoCero: Es el producto clave para conectar su empresa a Internet. Por medio de un poderoso Firewall aislar· la red interna de la externa (Internet), no corriendo de esta 	forma los riesgos tÌpicos al conectarse con el mundo exterior. Est· basado en un robusto sistema operativo inmune a los virus y muy confiable
 
-Dictan cursos de capacitaci√≥n sobre servicios de migraci√≥n al software libre.
+Dictan cursos de capacitaciÛn sobre servicios de migraciÛn al software libre.
 
 
 
