@@ -52,6 +52,10 @@ Ventajas de un modelo de negocios basado en software libre:
 . Formato de datos portable.
 . El SF posibilita usar piezas de otros programas de SF para construir nuevos sistemas, acortando los tiempos, disminuyendo costos y aumentando la calidad. Si bien el software privativo se puede desarrollar a medida, no posee estas ventajas.
 . Costos de licencias*. 
+. Rapido crecimiento del SF vs SP. (mostrar curva)
+. Experiencia de bugs en SF vs SP.
+. Free Choice será el soporte que le falta al SF.
+. El SF regularizaría la situacion del estado en cuanto al software pirata.
 ---------------------------------------------------
 
 * Gran cantidad de software libre existente es gratuito, pero no es requisito que lo sea.
