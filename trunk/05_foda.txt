@@ -1,36 +1,32 @@
--------------
--------------
-Analisis FODA:
--------------
--------------
+Análisis FODA:
+--------------
  
 FORTALEZAS:
-----------
-    La única empresa en Mendoza dedicada exclusivamente a la migración de sistemas informáticos a software libre.
-    Foco en las universidades y el estado.
-    Costos de insumos relativamente bajos.
+~~~~~~~~~~~
+* La única empresa en Mendoza dedicada exclusivamente a la migración de sistemas informáticos a software libre.
+* Foco en las universidades y el estado.
+* Costos de insumos relativamente bajos.
     
     
 OPURTUNIDADES:
--------------
-    Actualmente se están promoviendo leyes para el uso del software libre en el estado.
-    En caso de licitaciones ó compras directas, prever como reunir y sobresalir en los requisitos.
-    Incremento de los casos de migración en el estado argentino.
- 
-    
+~~~~~~~~~~~~~
+* Actualmente se están promoviendo leyes para el uso del software libre en el estado.
+* En caso de licitaciones ó compras directas, prever como reunir y sobresalir en los requisitos.
+* Incremento de los casos de migración en el estado argentino.
+  
 DEBILIDADES:
------------
-    Posibilidad por parte de las universidades y el estado de realizar el trabajo con recursos humanos internos.
-    La competencia actual, mas allá de no hacer foco en el tema posee un prestigio importante en Mendoza.
-    Disminución de la demanda futura (inevitable).
+~~~~~~~~~~~
+* Posibilidad por parte de las universidades y el estado de realizar el trabajo con recursos humanos internos.
+* La competencia actual, mas allá de no hacer foco en el tema posee un prestigio importante en Mendoza.
+* Disminución de la demanda futura (inevitable).
  
     
 AMENAZAS:
---------
-    Bajas barreras de entrada.
-    Posible entrada desde otras provincias.
-    Rechazo de la ley de migración.
-    Resistencia del personal (del estado principalmente) para decidir una migración.
+~~~~~~~~~~~
+* Bajas barreras de entrada.
+* Posible entrada desde otras provincias.
+* Rechazo de la ley de migración.
+* Resistencia del personal (del estado principalmente) para decidir una migración.
  
  
  

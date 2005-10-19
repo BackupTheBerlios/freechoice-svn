@@ -1,24 +1,26 @@
---------------------------------
---------------------------------
 FACTORES CRÍTICOS DE EXITO
-==========================
+--------------------------
 
-Recursos humanos: Será critica la capacitación permanente del personal.
+Recursos humanos: 
+~~~~~~~~~~~~~~~~~~
+Será critica la capacitación permanente del personal.
 
------------------
-
-Plazo de entrega: Para que la migración sea exitosa se deberán cumplir con los plazos de entrega, ya que mientras se migran los sistemas puede que los clientes no puedan operar normalmente.
+Plazo de entrega: 
+~~~~~~~~~~~~~~~~~~
+Para que la migración sea exitosa se deberán cumplir con los plazos de entrega, ya que mientras se migran los sistemas puede que los clientes no puedan operar normalmente.
 
 Considerar las posibles estrategias de migración:
 
-	Big Bang: Todo en un fin de semana, no se recomienda.
-	De a grupos: adecuada.
-	Por usuario: adecuada.
+----------------------------
+	- Big Bang: Todo en un fin de semana, no se recomienda.
+	- De a grupos: adecuada.
+	- Por usuario: adecuada.
+----------------------------
 
 A la vez, cada migración puede hacerse con una prueba piloto que corra mientras tambien corre el sistema que se estaba usando hasta que el usuario se sienta comodo.
 
-Imagen: La empresa deberá tener una imagen que de confianza y seguridad a los clientes.
-
--------
+Imagen: 
+~~~~~~~
+La empresa deberá tener una imagen que de confianza y seguridad a los clientes.
 
 En situaciones donde no exista una solucion de SF, se optara por una opcion comercial bajo Linux

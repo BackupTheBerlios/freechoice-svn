@@ -1,47 +1,58 @@
-
-ESTUDIO DE MERCADO (BETA 1)
----------------------------
-
-BARRERA  DE ENTRADA: Bajas
+ESTUDIO DE MERCADO 
 -------------------
 
+BARRERA  DE ENTRADA: Bajas
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-------------------
 Requerimientos de capital: medio.
 Efectos de aprendizaje: alto.
 Proteccionismo gubernamental: ¿?
 Acceso a canales de distribucion: bajo.
 Acceso a materias primas criticas: bajo.
 Acceso a tecnologias avanzadas: bajo.
+-------------------
 
 
 BARRERAS DE SALIDA: Bajas.
-------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+-------------------
 Regulaciones laborales: bajo.
 Activos poco realizables o de difícil reconversión: bajo.
 Compromisos contractuales a largo plazo con los clientes: posiblemente alto.
 Barreras emocionales: bajo.
 Restricciones sociales y gubernamentales: bajo.
+-------------------
 
 
 DEMANDA:
--------
+~~~~~~~~
 
-Universidades (¿? PCs)
+
+Universidades
+^^^^^^^^^^^^^
+[verse]
+.................................
 	Universidades Nacionales
 		UNC
 		UTN.
-	Universidades Privadas 
+	Universidades Privadas
 		UM.
 		UC.
 		Aconcagua.
 		Champagnat.
 		San Francisco.
 		Maza.
+.................................
 
 
 
 NOMINA DE AUTORIDADES DEL ESTADO (http://www.mendoza.gov.ar/paginas/nominas/)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+[verse]
+.................................
 El 1% de las PCs son servers (Web, Mail, DB & Application Servers).
 De este 1%, un 10% son servidores Linux (para routing y firewalling).
 No se usa Linux como Desktop.
@@ -120,6 +131,10 @@ Otros Organismos (1400 PCs)
 	Autoridades Nacionales con Asiento en Mendoza 
 	Gobernadores de provincias
 
+.................................
+
+**********************************************
 TOTAL: 6000 PCs (de las cuales 60 son servers)
+**********************************************
 
 
