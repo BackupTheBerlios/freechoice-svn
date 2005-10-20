@@ -40,7 +40,7 @@ Por otro lado existen soluciones de software privativo para las organizaciones, 
 * El software privativo no se puede adaptar por terceros a las necesidades cambiantes de cada negocio.
 * Suelen tener mayores requerimientos de hardware que alternativas de SF.
 * Altos costos de licencias.
-* Poca o nula transparencia sobre el funcionamiento interno.
+* Poca o nula transparencia sobre el funcionamiento interno.(ojo, se puede pedir a microsoft que muestre su codigo y lo hacen)
 
 
 El SF resuelve estos problemas, pero aquellas organizaciones que desean migrar a un modelo basado en SF se ven dificultadas por la falta de soporte necesario para lograr y confiar en el cambio. *Freechoice* será el eslabón faltante del SF para que cualquier tipo de organización pueda confiar en él.
