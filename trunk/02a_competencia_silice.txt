@@ -1,0 +1,91 @@
+NALISIS DE LA COMPETENCIA:
+---------------------------
+
+****************************
+CASO 2) SILICE:
+****************************
+
+Benchmarking:
+------------
+
+*Descripcion del servicin
+=========================
+	-brindar tranquilidad tecnologica que cualquier organizacion puede 
+necesitar , combinado sus lineas de productos optimiza y desarrolla la 
+infraestructura de su opganizacion.
+	- mejorando sus procesos por medio del software adecuado , conectandola y 
+ampliandola a traves del resurso Internet , entrenando los RRHH que hacen 
+funcionar su negocio y finalmente gestionando todas las tecnologias 
+disponibles en el mercaso.
+
+*precios
+========
+falta
+
+*estructura
+===========
+falta
+
+*proceso
+=========
+falta
+
+*recursos humanos
+=================
+con mas de 20 profesionales universitarios especializados y experimentados.
+
+*tecnologia
+===========
+-sistemas operativos para servidores
+(unix,linux,os-400,windows 2003, etc)
+-sistemas operativos para puestos de trabajo
+(linux,macos, windows 98 , xp , 2000, etc)
+-servidores de aplicacion
+(TomCat , Oracle IAS, Websphere , etc)
+
+*imagen
+=======
+falta
+
+*Competidores directos e indirectos
+===================================
+directo
+
+Fortalezas:
+===========
+Poseen buen posicionamiento y alianzas en Mendoza
+	Alianzas internacionales: IBM , SUN , CISCO SYSTEM.
+	Alianzas locales: impsat , ITC
+Poseen gran cantidad de clientes:
+
+ONG
+===
+	A.L.D.A. (A. Civil de Lucha Contra Desordees Alimentarios)
+  	Banco de Alimentos de Mendoza
+  	FAVIM
+	F.I.D.I.
+	Oikos
+	Valos - Valor Empresario
+
+INDUSTRIAS
+==========
+
+	Aceral Metales S.R.L.
+	Bamenex S.A.
+	IES Ingenieria en Servicios S.A.
+	ICSA
+	YPF
+	Nuevo Sol S.R.L.
+
+INSTITUCIONES
+============
+
+  Asociacion Mendocina de Anestesiologia
+  Bolsa de Comercio de Mendoza SA
+  Colegio de Abogados y Procuradores de la Prov. de Mza.
+  Colegio de Agrrimensura
+  Colegio de Medicos de San Juan
+  Colegio del Carmen
+
+etc..... http://www.silice.biz/empresa/clientes.htm
+
