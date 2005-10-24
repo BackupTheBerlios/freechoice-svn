@@ -16,66 +16,97 @@ Descripción
 
 *Freechoice* brindará un servicio de migración, soporte, integración, capacitación y extensión de software libre.
 
+
 Enfocado a
 ~~~~~~~~~~
-
 
 * Universidades
 * Estado
 
 
-	
 También se dará servicio a Empresas y Organizaciones en general.
 
+
+Definiciones
+~~~~~~~~~~~~
+
+*Software Libre (SF)*: es software que viene con autorización para que cualquiera pueda usarlo, copiarlo y distribuirlo, ya sea literal o con modificaciones, gratis o mediante una gratificación.
+
+*Software Privativo (SP)*: significa que causa privación o restricción de alguna de las libertades mencionados en la definición de SL.
 
 Necesidades identificadas
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-El software libre (SF) ha logrado un rápido crecimiento respecto a su uso y popularidad en todo el mundo, sin embargo existen ciertas travas para que este logre ser aceptado completamente.
+El SF ha logrado un rápido crecimiento respecto a su uso y popularidad en todo el mundo, sin embargo existen ciertas trabas para que este logre ser aceptado completamente como veremos mas adelante.
 
-Por otro lado existen soluciones de software privativo para las organizaciones, pero estas poseen ciertas desventajas:
+Por otro lado existen soluciones de software privativo para las organizaciones, evaluadas a continuación en dos categorías:
 
+Software Privativo Enlatado: 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* Se generan dependencias hacia el proveedor de software.
-* El software privativo no se puede adaptar por terceros a las necesidades cambiantes de cada negocio.
-* Suelen tener mayores requerimientos de hardware que alternativas de SF.
-* Altos costos de licencias.
-* Poca o nula transparencia sobre el funcionamiento interno.(ojo, se puede pedir a microsoft que muestre su codigo y lo hacen)
-
-
-El SF resuelve estos problemas, pero aquellas organizaciones que desean migrar a un modelo basado en SF se ven dificultadas por la falta de soporte necesario para lograr y confiar en el cambio. *Freechoice* será el eslabón faltante del SF para que cualquier tipo de organización pueda confiar en él.
-
-
-Ventajas de un modelo de negocios basado en software libre
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* Total transparencia de lo que el software hace.
-* Se promueve el uso de formatos de datos abierto y estándares.
-* El SF posibilita usar piezas de otros programas de SF para construir nuevos sistemas, acortando los tiempos, disminuyendo costos y aumentando la calidad. Si bien el software privativo se puede desarrollar a medida, no posee estas ventajas.
-* Costos de licencias *. 
-* Rápido crecimiento del SF vs SP. (mostrar curva)
-
+* + Corto tiempo de puesta en marcha.
+* + Riesgo de fallos y errores relativamente bajo.
+* + Documentación.
+* - No se puede adaptar a las necesidades cambiantes de cada negocio.
+* - Se suelen generan dependencias hacia el proveedor de software.
+* - Suelen tener altos requerimientos de hardware.
+* - Costos de licencias.
+* - Poca o nula transparencia sobre el funcionamiento interno.*
 
 [verse]
 ........................................................
-* Gran cantidad de software libre existente es gratuito, pero no es requisito que lo sea.
+	* Se puede pedir a las empresas de SP que muestren su código fuente en ciertas ocasiones.
 ........................................................
+
+Software Privativo a Medida: 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* + Se adapta a la organización.
+* - Alto costo total.
+* - Tiempo de desarrollo.
+* - Mayor riesgo de fallas y errores.
+
+
+Existe un punto medio entre el software enlatado y el software a medida, conocido como software parametrizable que ofrece un termino medio de todos los puntos evaluados anteriormente.
+ 
+
+Como alternativa al software privativo, existe el SF:
+
+Software Libre: 
+^^^^^^^^^^^^^^
+
+* + Total transparencia de lo que el software hace.
+* + Se promueve el uso de formatos de datos abierto y estándares.
+* + En caso de necesitar desarrollar ó adaptar software, el SF posibilita usar piezas de otros programas de SF para construir nuevos sistemas, llevando a:
+	- Disminución de los tiempos de desarrollo.
+	- Disminución de costos.
+	- Aumento de la calidad. 
+
+* + Costos de licencias *.
+* + Menores requerimientos de hardware que alternativas de SP.
+* + Disminuye el riesgo legal en casos de software 'pirata'.
+* + Rápido crecimiento histórico en el uso y desarrollo del SF vs SP.
+* - Falta de soporte, actualmente solo existen foros y sitios webs que ofrecen ayuda, pero no una empresa que brinde soporte de SF.
+* - Posible discontinuidad en el desarrollo.
+
+[verse]
+........................................................
+	* Gran cantidad de software libre existente es gratuito, pero no es requisito que lo sea.
+........................................................
+
+Aquellas organizaciones que desean migrar a un modelo basado en SF se ven dificultadas por la falta de soporte necesario para lograr y confiar en el cambio. *Freechoice* será el eslabón faltante del SF para que cualquier tipo de organización pueda confiar en él.
+
+
 
 Ventajas para el Estado y Universidades
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Resguardo de la información de los ciudadanos  (evita posibles backdoors).
 * Promueve la industria local de software para la modificación y adaptación de SF existente.
-* El SF regularizaría la situación del estado en cuanto al software pirata.
+* El SF regularizaría la situación del legal del estado en cuanto al software 'pirata'.
 * Evita obligar a los ciudadanos a comprar licencias privativas para que estos puedan recibir la información que soliciten. 
 	Véase Ley 104 - Ley de Acceso a la Información:
 	http://www.cedom.gov.ar/es/legislacion/normas/leyes/html/ley104.html
 
-
-Desventajas del Software Libre
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* Poco soporte para los usuarios. Actualmente solo existen foros y sitios webs que ofrecen ayuda, pero no una empresa que brinde soporte de SF.
 
 
 Solución
@@ -85,11 +116,10 @@ Solución
 
 Particularmente, *Freechoice* ofrecerá:
 
-1. Un servicio de migración del software privativo existente en la organización a SF, con la solución de migrar completamente ó estudiar la posible coexistencia de SF con software privativo.
+1. Un servicio de migración de SP a SF, con la solución de migrar completamente ó estudiar la posible coexistencia de SF con SP.
 
 2. Soporte técnico a las organizaciones que posean un modelo basado en SF.
 
-3. Capacitación del personal para adaptarse al cambio.
+3. Capacitación de personal para adaptarse al cambio.
 
 4. Posibilidad de extensión y adaptación de soluciones existentes de SF al modelo de negocio especifico de cada organización.
-
