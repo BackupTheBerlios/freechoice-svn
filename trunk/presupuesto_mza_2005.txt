@@ -1,5 +1,5 @@
 Los siguientes gastos corresponden al detalle "EQUIPOS Y ACCESORIOS PARA COMPUTACION" del presupuesto 2005.
-Habrá que sacar que proporcion corresponde a licencias de software. 
+Se estima que el 25% de estos costos son por licencias de software y servicios relacionados. 
 
 LEGISLATURA, PODERES, TRIBUNAL DE CUENTAS Y FISCALIA DE ESTADO
 	
@@ -91,5 +91,17 @@ MINISTERIO DE DESARROLLO SOCIAL Y SALUD
 	Direrccion gral. obra social de empleados publicos 			-> 	700000
 								subtotal	->	1.423.000
 
-TOTAL:	7.885.800
+
+Otros Organismos
+	Intendencias 
+	Autoridades Eclesiásticas 
+	Fuerzas Armadas y Seguridad 
+	Cuerpo Consular 
+	Sres. Ex Gobernadores de Mendoza 
+	Instituciones Culturales y Patrióticas 
+	Autoridades Nacionales con Asiento en Mendoza 
+	Gobernadores de provincias
+								subtotal	->	500.000
+
+TOTAL:	8.385.800
 =====

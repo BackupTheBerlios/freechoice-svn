@@ -1,0 +1,157 @@
+PARTE 7: Factibilidad Técnica:
+------------------------------
+
+Ensayo e Investigación:
+~~~~~~~~~~~~~~~~~~~~~~~
+
+De la experiencia personal y de otras experiencias probadas, como ser empresas tales como Google, Yahoo, IBM y países como Alemania, Italia, Brasil, etc. El SF se usa actualmente en una gran cantidad de áreas de las TI.
+El SF libre ofrece soluciones tanto a nivel de servidores como a nivel de cliente (desktop).
+Hay ciertas áreas donde el SF todavía no es lo suficientemente maduro como para reemplazar al SP.
+
+Tambien se evaluarán las distintas estrategias de migración para cada caso particular:
+
+----------------------------
+	- Big Bang: Todo en un fin de semana, no se recomienda.
+	- De a grupos: adecuada.
+	- Por usuario: adecuada.
+----------------------------
+
+A la vez, cada migración puede hacerse con una prueba piloto que corra mientras tambien corre el sistema que se estaba usando hasta que el usuario se sienta comodo.
+
+
+Taxonomía:
+^^^^^^^^^
+
+A. Administrative Workflow and Workload management
+
+	A.1 office suites
+	A.2 desktop software
+	A.3 backup utilities
+	A.4 administration systems
+	A.5 web tools
+	A.6 content management
+	A.7 database tools
+	A.8 imaging tools
+	A.9 miscellaneous
+
+
+B. Communication and management of public sector documents
+
+	B.1 file sharing
+	B.2 email and instant messaging
+	B.3 conferencing
+	B.4 fax
+	B.5 phone
+	B.6 video
+	B.7 network communications
+             
+
+C. Statistical tools
+
+
+D. eGovernment services to citizens
+
+	D.1 tax declaration
+	D.2 job search
+	D.3 social security
+	D.4 unemployment
+	D.5 family allowances
+	D.6 medical costs / health related services
+	D.7 student grants
+	D.8 personal documents
+	D.9 car registration
+	D.10 application for building / planning / permission
+	D.11 declaration to the police
+	D.12 public libraries
+	D.13 certificates (birth, marriage etc.)
+	D.14 enrolment in education
+	D.15 announcement of moving (address changes)
+	D.16 eDemocracy (e.g. e-voting) and inclusion
+
+
+E. eGovernment services to Enterprises
+
+	E.1 registration
+	E.2 tax declaration
+
+
+F. eJustice, Legal transparency and visibility
+
+G. eLearning
+ 
+H. Facilities management
+
+I. Human resource and career development
+
+J. Hospital management and healthcare
+
+K. Public e-procurement
+
+L. Real estate management and Geoinformation
+
+M. Security, encryption, PKI, identification and authentication
+
+	M.1 firewall and proxy servers
+
+	M.2 authentication and identification (incl. biometrics)
+
+	M.3 confidentiality tools
+
+	M.4 other
+
+N. Tourism
+O. Middleware
+P. Programming Languages, Interpreters, Compilers, Development Tools and Operating Systems
+
+
+*TODO*: enumerar escenarios donde el SF ya está probado y donde no.
+
+
+Ubicación:
+~~~~~~~~~~
+
+La ubicación no es un factor crítico para la empresa. No existen necesidades tales como transporte de materias primas ó productos finales.
+De todos modos se evaluará la localización de las oficinas de acuerdo a costos de transporte.
+
+*TODO*:
+	- donde se capacitará?
+	- en caso de desarrollar software. donde y como?
+
+Proyectos Complementarios:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Se tendrá un laboratorio de prueba donde de realizaran escenarios posibles de migración antes de realizarlas en lugares de producción.
+
+*TODO*: dimensionar el laboratorio.
+
+
+Escalas de producción:
+~~~~~~~~~~~~~~~~~~~~~~
+
+Principalmente la empresa necesitará de personal calificado para poder realizar el servicio de migración. La escala de producción será proporcional a la disponibilidad de personal y a la dimensión del laboratorio.
+
+
+Tecnología:
+~~~~~~~~~~
+
+Se requiere de hardware en el laboratorio que simule en un cierto grado los posibles escenarios de migración.
+Se necesitará de una conexión de alta velocidad y disponibilidad a Internet, que será nuestra fuente de obtención de SF. Se evaluará tener 2 enlaces de distintos proveedores.
+
+
+Personal:
+~~~~~~~~~
+
+Es el área mas crítica para nuestro caso. Se requiere un grupo de personal especializado en distintas áreas de tecnología informática.
+
+*TODO*: 
+	- ver la factibilidad de encontrarlas en el mercado actual.
+	- dimensionar la cantidad de personas.
+	- enumerar especializaciones.
+
+	
+
+Materias Primas:
+~~~~~~~~~~~~~~~
+
+ - Hardware: TODO
+ - Software: Internet será nuestro 'proveedor'

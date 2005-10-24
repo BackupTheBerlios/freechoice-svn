@@ -5,6 +5,7 @@ A02a2= 02a_competencia_silice
 A03= 03_estrategia_mision
 A04= 04_factores_criticos
 A05= 05_foda
+A07= 07_fact_tecnica
 
 all:	
 	rm -f *.html
@@ -15,6 +16,7 @@ all:
 	asciidoc.py --attribute=encoding=ISO-8859-1 ${A03}.txt
 	asciidoc.py --attribute=encoding=ISO-8859-1 ${A04}.txt
 	asciidoc.py --attribute=encoding=ISO-8859-1 ${A05}.txt
+	asciidoc.py --attribute=encoding=ISO-8859-1 ${A07}.txt
 	sed '/^<\/body>/d' ${A01}.html |  sed '/^<\/html>/d' > all.html
 	sed '1,259d' ${A02}.html | sed '/^<\/body>/d' | sed '/^<\/html>/d' >> all.html
 	sed '1,259d' ${A02a1}.html | sed '/^<\/body>/d' | sed '/^<\/html>/d' >> all.html
@@ -22,6 +24,7 @@ all:
 	sed '1,259d' ${A03}.html | sed '/^<\/body>/d' | sed '/^<\/html>/d' >> all.html
 	sed '1,259d' ${A04}.html | sed '/^<\/body>/d' | sed '/^<\/html>/d' >> all.html
 	sed '1,259d' ${A05}.html | sed '/^<\/body>/d' | sed '/^<\/html>/d' >> all.html
+	sed '1,259d' ${A07}.html | sed '/^<\/body>/d' | sed '/^<\/html>/d' >> all.html
 	echo '</body></html>' >> all.html
 	firefox all.html &
 
