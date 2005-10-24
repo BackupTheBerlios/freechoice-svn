@@ -7,7 +7,7 @@ BARRERA  DE ENTRADA: Bajas
 -------------------
 Requerimientos de capital: medio.
 Efectos de aprendizaje: alto.
-Proteccionismo gubernamental: ¿?
+Proteccionismo gubernamental: ?
 Acceso a canales de distribucion: bajo.
 Acceso a materias primas criticas: bajo.
 Acceso a tecnologias avanzadas: bajo.
@@ -35,15 +35,15 @@ Universidades
 [verse]
 .................................
 	Universidades Nacionales
-		UNC
-		UTN.
+		UNC(1500)
+		UTN.(250)
 	Universidades Privadas
-		UM.
-		UC.
-		Aconcagua.
-		Champagnat.
-		San Francisco.
-		Maza.
+		UM.(60)
+		UC.(60)
+		Aconcagua.(65)
+		Champagnat.(65)
+		San Francisco.(60)
+		Maza.(100)
 .................................
 
 
