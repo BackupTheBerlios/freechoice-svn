@@ -70,4 +70,5 @@ ESLOGAN
 	"Free Choice: sublevece a su jefe YA"
 	"Free Choice: equilibrio, cuerpo y alma"
 	"Free Choice: vamos mis valientes!"
-	
+
+image:BINARIOS/logo.jpg[Logo Freechoice]
