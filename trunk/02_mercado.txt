@@ -35,17 +35,16 @@ Universidades
 [verse]
 .................................
 	Universidades Nacionales
-		UNC(1500)
-		UTN.(250)
+		UNC (1500 PCs)
+		UTN (250 PCs)
 	Universidades Privadas
-		UM.(60)
-		UC.(60)
-		Aconcagua.(65)
-		Champagnat.(65)
-		San Francisco.(60)
-		Maza.(100)
+		UM (60 PCs)
+		UC (60 PCs)
+		Aconcagua (65 PCs)
+		Champagnat (65 PCs)
+		San Francisco (60 PCs)
+		Maza (100 PCs)
 .................................
-
 
 
 NOMINA DE AUTORIDADES DEL ESTADO (http://www.mendoza.gov.ar/paginas/nominas/)
