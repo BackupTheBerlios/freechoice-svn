@@ -7,7 +7,7 @@ BARRERA  DE ENTRADA: Bajas
 -------------------
 Requerimientos de capital: medio.
 Efectos de aprendizaje: alto.
-Proteccionismo gubernamental: ?
+Proteccionismo gubernamental: medio.
 Acceso a canales de distribucion: bajo.
 Acceso a materias primas criticas: bajo.
 Acceso a tecnologias avanzadas: bajo.

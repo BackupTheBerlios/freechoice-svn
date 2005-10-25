@@ -6,22 +6,14 @@ Ensayo e Investigación:
 
 De la experiencia personal y de otras experiencias probadas, como ser empresas tales como Google, Yahoo, IBM y países como Alemania, Italia, Brasil, etc. El SF se usa actualmente en una gran cantidad de áreas de las TI.
 El SF libre ofrece soluciones tanto a nivel de servidores como a nivel de cliente (desktop).
-Hay ciertas áreas donde el SF todavía no es lo suficientemente maduro como para reemplazar al SP.
-
-Tambien se evaluarán las distintas estrategias de migración para cada caso particular:
-
-----------------------------
-	- Big Bang: Todo en un fin de semana, no se recomienda.
-	- De a grupos: adecuada.
-	- Por usuario: adecuada.
-----------------------------
-
-A la vez, cada migración puede hacerse con una prueba piloto que corra mientras tambien corre el sistema que se estaba usando hasta que el usuario se sienta comodo.
+Hay que considerar cada caso y evaluar si el SF es lo suficientemente maduro como para reemplazar al SP.
 
 
-Taxonomía:
-^^^^^^^^^
+Taxonomía de aplicaciones:
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
+[verse]
+........................................................
 A. Administrative Workflow and Workload management
 
 	A.1 office suites
@@ -104,7 +96,71 @@ O. Middleware
 P. Programming Languages, Interpreters, Compilers, Development Tools and Operating Systems
 
 
-*TODO*: enumerar escenarios donde el SF ya está probado y donde no.
+Casos problemáticos:
+	- algunas macros VB de MsOffice deben ser rescritas como scripts.
+	- antivirus libres :( no son buenos. Considerar alguno pago.
+	- algunos problemas con paquetes para manejar directorios LDAP.
+	- el área de calendario (Outlook) y groupware (Exchange) es débil en SF.
+	- datawarehousing :(. no hay BD distribuidas maduras en SF.
+	- ERP? SAP?
+
+........................................................
+
+Etapas de un proyecto:
+~~~~~~~~~~~~~~~~~~~~~~
+
+Será necesario investigar y tener en cuenta lo siguiente:
+
+	* Antes de comenzar tener claro el motivo de migración.
+	* Asegurarse que hay un entusiasmo en el cambio por parte del staff TI y usuarios.
+	* Empezar con sistemas no críticos.
+	* Asegurarse que cada paso de migración es manejable.
+
+Metodología:
+^^^^^^^^^^^
+	1. Recolección de información y definición del proyecto.
+	2. Condiciones iniciales relevantes:
+		a. arquitectura de sistemas.
+		b. aplicaciones y sus datos.
+		c. protocolos y estándares usados.
+		d. hardware.
+		e. ambiente físico: networking, cableado, localización.
+		f. requisitos sociales: capacitación necesaria.
+	3. Objetivos con el mismo detalle.
+	4. Plan de como llegar del origen al destino.
+	5. Justificación de la migración + los costos asociados.
+	6. Una o mas fases pilotos para probar el plan y la justificación. (prototipo)
+	7. Llevar a cabo el plan.
+	8. Monitorear la experiencia respecto a lo planeado.
+
+
+Análisis de Alternativas:
+^^^^^^^^^^^^^^^^^^^^^^^^
+	1. El costo del ambiente existente en un termino de aproximadamente 5 años.
+	2. El costos de una alternativa + el costo de migración.
+	3. Fuerzas y debilidades del ambiente actual y las alternativas.
+	4. Considerar la coexistencia de un ambiente SF con uno de SP.
+
+También se evaluarán las distintas estrategias de migración para cada caso particular, los casos posibles según la experiencia son:
+
+
+	- Big Bang: ej: todo en un fin de semana. NO se recomienda.
+	- De a grupos: adecuada.
+	- Por usuario: adecuada para pruebas pilotos. lleva demasiado tiempo.
+
+
+A la vez, cada migración puede hacerse con una prueba piloto que corra mientras también corre el sistema que se estaba usando hasta que el usuario se sienta cómodo.
+
+Capacitación:
+^^^^^^^^^^^^^
+
+Evaluar las posibilidades:
+
+	- Cursos masivos.
+	- 1 a 1.
+	- De a grupos.
+
+Buscar "catalizar" la capacitación, de manera que los usuarios ya entrenados puedan entrenar a otros usuarios.
 
 
 Ubicación:
@@ -142,6 +198,7 @@ Personal:
 ~~~~~~~~~
 
 Es el área mas crítica para nuestro caso. Se requiere un grupo de personal especializado en distintas áreas de tecnología informática.
+también debe haber una mesa de ayuda con alta disponibilidad para los clientes.
 
 *TODO*: 
 	- ver la factibilidad de encontrarlas en el mercado actual.

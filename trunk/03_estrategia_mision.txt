@@ -3,8 +3,8 @@ PARTE 3: MISION
 	
 PROPOSITO
 ~~~~~~~~
-El proposito de la empresa sera el de brindar servicio de migración, soporte, integración, capacitación y extensión de sistemas de software de manera rápida y confiable a universidades y al estado.
-La empresa venderá confiabilidad, libertad y transparencia de sistemas de software.
+El proposito de la empresa sera el de brindar servicio de migración, soporte, integración, capacitación y extensión de sistemas de software de manera rápida y confiable a universidades y al estado principalmente.
+La empresa venderá soporte, libertad y transparencia de sistemas de software.
 
 VISION
 ~~~~~~~~
