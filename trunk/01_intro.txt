@@ -14,7 +14,7 @@ PARTE 1: INTRODUCCION
 Descripción
 ~~~~~~~~~~~
 
-*Freechoice* brindará un servicio de migración, soporte, integración, capacitación y extensión de software libre.
+*Freechoice* brindará un servicio de migración, soporte, integración, capacitación y extensión de software libre destinado a organizaciones.
 
 
 Enfocado a
@@ -22,9 +22,6 @@ Enfocado a
 
 * Universidades
 * Estado
-
-
-También se dará servicio a Empresas y Organizaciones en general.
 
 
 Definiciones

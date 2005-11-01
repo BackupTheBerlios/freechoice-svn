@@ -19,8 +19,13 @@ PRECIO
 
 Inicialmente, nuestra capacidad de influir sobre el precio se verá limitada por lo que perciba la competencia (si bien es escasa, los tomaremos de referencia). Sin embargo, esperamos que las recomendaciones de nuestros clientes consoliden nuestro negocio y que los servicios que ofrecemos se coticen a una tarifa algo superior a la promedio.
 
-Servidores: $40 por hora, la  demora promedio en la instalación es de 2 horas.
-Estaciones de trabajo: 
+Servidores y estaciones de trabajo: $40 por hora, la  demora promedio en la instalación es de 2 para un servidor y de 1 para una estación de trabajo.
+
+Actualmente la competencia esta cobrando entre $50 y $60 la hora.
+
+(ANALISIS DE SENSIBILIDAD)
+
+(ANALISIS DE COSTOS)
 
 
 DISTRIBUCIÓN
@@ -52,19 +57,53 @@ Internet:	Sitio Web propio
 
 Boca a Boca: 	Recomendaciones de nuestros clientes.
 
-(1)Según la revista Pyme (DIR) la empresa InZearch ofrece un servicio para hacer publicidad en los principales buscadores (Google,Yahoo, MSN, TERRA,etc), el costo es proporcional a la cantidad de clics hechos en el link (desde $500) . Según D`Alessio/Irol en nuestro país existen 7.600.000 usuarios de Internet, de los cuales 6.600.000 consulta on line antes de decidir una compra o contratación.
 
-Plan de Comunicaciones ( 1er año)
+PLAN DE COMUNICACIONES ( 1ER AÑO)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Recursos Humanos
+* Mes 1:
+Publicidad Radio:
+Publicidad en revista Pyme:
+Publicidad Diario Clarín:
+Publicidad Diario Los Andes:
+Publicidad Diario UNO:
+Mantenimiento del Sitio WEB:
+Personal Dedicado a la oferta a Empresas:
+
+* Mes 2:
+Publicidad Radio:
+Publicidad en revista Pyme:
+Publicidad Diario Clarín:
+Publicidad Diario Los Andes:
+Publicidad Diario UNO:
+Mantenimiento del Sitio WEB:
+Personal Dedicado a la oferta a Empresas:
+
+* Mes 3:
+Publicidad Radio:
+Publicidad en revista Pyme:
+Publicidad Diario Los Andes:
+Mantenimiento del Sitio WEB:
+Personal Dedicado a la oferta a Empresas:
+
+* Mes 4 a 12:
+Publicidad Radio:
+Publicidad en revista Pyme:
+Publicidad Diario (Clarín Los Andes, UNO) (permutando 1 mes en cada uno):
+Mantenimiento del Sitio WEB:
+Personal Dedicado a la oferta a Empresas:
+
+
+RECURSOS HUMANOS
+~~~~~~~~~~~~~~~~
 
 (ORGANIGRAMA OPTIMO DE LA EMPRESA)
+
 (ORGANIGRAMA MINIMO) es el inicial
 
 Cantidad de personas necesarias ( entre 2 a 5 años)
 
 Costos de contratación y remuneración
-
  
 
 

@@ -55,36 +55,7 @@ Fortalezas:
 Poseen buen posicionamiento y alianzas en Mendoza
 	Alianzas internacionales: IBM , SUN , CISCO SYSTEM.
 	Alianzas locales: impsat , ITC
-Poseen gran cantidad de clientes:
+Poseen gran cantidad de clientes.
 
-ONG
-~~~~
-	A.L.D.A. (A. Civil de Lucha Contra Desordees Alimentarios)
-  	Banco de Alimentos de Mendoza
-  	FAVIM
-	F.I.D.I.
-	Oikos
-	Valos - Valor Empresario
 
-INDUSTRIAS
-~~~~~~~~
-
-	Aceral Metales S.R.L.
-	Bamenex S.A.
-	IES Ingenieria en Servicios S.A.
-	ICSA
-	YPF
-	Nuevo Sol S.R.L.
-
-INSTITUCIONES
-~~~~~~~~~~~~
-
-  Asociacion Mendocina de Anestesiologia
-  Bolsa de Comercio de Mendoza SA
-  Colegio de Abogados y Procuradores de la Prov. de Mza.
-  Colegio de Agrrimensura
-  Colegio de Medicos de San Juan
-  Colegio del Carmen
-
-etc..... http://www.silice.biz/empresa/clientes.htm
-
+*fuente*: http://www.silice.biz/

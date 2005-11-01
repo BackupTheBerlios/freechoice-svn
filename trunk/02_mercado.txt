@@ -30,13 +30,13 @@ DEMANDA:
 ~~~~~~~~
 
 
-Universidades
-^^^^^^^^^^^^^
+Universidades de Mendoza
+^^^^^^^^^^^^^^^^^^^^^^^^
 [verse]
 .................................
 	Universidades Nacionales
-		UNC (1500 PCs)
-		UTN (250 PCs)
+		UNC Mendoza (1500 PCs)
+		UTN Regional Mendoza (250 PCs)
 	Universidades Privadas
 		UM (60 PCs)
 		UC (60 PCs)
@@ -45,6 +45,9 @@ Universidades
 		San Francisco (60 PCs)
 		Maza (100 PCs)
 .................................
+
+*fuente*: Relevamiento realizado por Chuang Po-min - Estudiante de Ingeniería - UM.
+
 
 
 NOMINA DE AUTORIDADES DEL ESTADO (http://www.mendoza.gov.ar/paginas/nominas/)
@@ -135,3 +138,5 @@ Otros Organismos (1400 PCs)
 **********************************************
 TOTAL: 6000 PCs (de las cuales 60 son servers)
 **********************************************
+
+*fuente*: Sr. Arturo Caridad - Director de Informática y Comunicaciones, Gobierno de Mendoza.
