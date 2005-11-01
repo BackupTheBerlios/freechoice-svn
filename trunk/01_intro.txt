@@ -90,7 +90,7 @@ Software Libre:
 	* Gran cantidad de software libre existente es gratuito, pero no es requisito que lo sea.
 ........................................................
 
-Aquellas organizaciones que desean migrar a un modelo basado en SF se ven dificultadas por la falta de soporte necesario para lograr y confiar en el cambio. *Freechoice* será el eslabón faltante del SF para que cualquier tipo de organización pueda confiar en él.
+*Aquellas organizaciones que desean migrar a un modelo basado en SF se ven dificultadas por la falta de soporte necesario para lograr y confiar en el cambio. 'Freechoice' será el eslabón faltante del SF para que cualquier tipo de organización pueda confiar en él.*
 
 
 

@@ -9,94 +9,44 @@ El SF libre ofrece soluciones tanto a nivel de servidores como a nivel de client
 Hay que considerar cada caso y evaluar si el SF es lo suficientemente maduro como para reemplazar al SP.
 
 
-Taxonomía de aplicaciones:
-^^^^^^^^^^^^^^^^^^^^^^^^^
+Taxonomía tentativa de aplicaciones a cubrir:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 [verse]
 ........................................................
-A. Administrative Workflow and Workload management
+0. Sistema Operativo.
 
-	A.1 office suites
-	A.2 desktop software
-	A.3 backup utilities
-	A.4 administration systems
-	A.5 web tools
-	A.6 content management
-	A.7 database tools
-	A.8 imaging tools
-	A.9 miscellaneous
+A. Ofimática.
 
+B. Sistema de mensajería y comunicaciones
 
-B. Communication and management of public sector documents
+D. Servicios eGovernment para los ciudadanos
 
-	B.1 file sharing
-	B.2 email and instant messaging
-	B.3 conferencing
-	B.4 fax
-	B.5 phone
-	B.6 video
-	B.7 network communications
-             
+E. Servicios eGovernment para las empresas
 
-C. Statistical tools
-
-
-D. eGovernment services to citizens
-
-	D.1 tax declaration
-	D.2 job search
-	D.3 social security
-	D.4 unemployment
-	D.5 family allowances
-	D.6 medical costs / health related services
-	D.7 student grants
-	D.8 personal documents
-	D.9 car registration
-	D.10 application for building / planning / permission
-	D.11 declaration to the police
-	D.12 public libraries
-	D.13 certificates (birth, marriage etc.)
-	D.14 enrolment in education
-	D.15 announcement of moving (address changes)
-	D.16 eDemocracy (e.g. e-voting) and inclusion
-
-
-E. eGovernment services to Enterprises
-
-	E.1 registration
-	E.2 tax declaration
-
-
-F. eJustice, Legal transparency and visibility
+F. eJustice y transparencia legal
 
 G. eLearning
- 
-H. Facilities management
 
 I. Human resource and career development
 
-J. Hospital management and healthcare
+J. Gestión de hospitales y centros de salud
 
 K. Public e-procurement
 
 L. Real estate management and Geoinformation
 
-M. Security, encryption, PKI, identification and authentication
+M. Seguridad
 
-	M.1 firewall and proxy servers
+N. Turismo
 
-	M.2 authentication and identification (incl. biometrics)
-
-	M.3 confidentiality tools
-
-	M.4 other
-
-N. Tourism
 O. Middleware
-P. Programming Languages, Interpreters, Compilers, Development Tools and Operating Systems
+
+P. Lenguajes de programación, compiladores y herramientas de desarrollo.
 
 
-Casos problemáticos:
+Casos problemáticos: existen casos conocidos donde el software libre todavía no es maduro.
+
 	- algunas macros VB de MsOffice deben ser rescritas como scripts.
 	- antivirus libres :( no son buenos. Considerar alguno pago.
 	- algunos problemas con paquetes para manejar directorios LDAP.
@@ -106,8 +56,8 @@ Casos problemáticos:
 
 ........................................................
 
-Etapas de un proyecto:
-~~~~~~~~~~~~~~~~~~~~~~
+Consideraciones para un proyecto:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Será necesario investigar y tener en cuenta lo siguiente:
 
@@ -116,8 +66,8 @@ Será necesario investigar y tener en cuenta lo siguiente:
 	* Empezar con sistemas no críticos.
 	* Asegurarse que cada paso de migración es manejable.
 
-Metodología:
-^^^^^^^^^^^
+Metodología de migración:
+^^^^^^^^^^^^^^^^^^^^^^^^^
 	1. Recolección de información y definición del proyecto.
 	2. Condiciones iniciales relevantes:
 		a. arquitectura de sistemas.
@@ -135,7 +85,8 @@ Metodología:
 
 
 Análisis de Alternativas:
-^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 	1. El costo del ambiente existente en un termino de aproximadamente 5 años.
 	2. El costos de una alternativa + el costo de migración.
 	3. Fuerzas y debilidades del ambiente actual y las alternativas.
@@ -152,7 +103,7 @@ También se evaluarán las distintas estrategias de migración para cada caso parti
 A la vez, cada migración puede hacerse con una prueba piloto que corra mientras también corre el sistema que se estaba usando hasta que el usuario se sienta cómodo.
 
 Capacitación:
-^^^^^^^^^^^^^
+~~~~~~~~~~~~~
 
 Evaluar las posibilidades:
 
@@ -169,17 +120,13 @@ Ubicación:
 La ubicación no es un factor crítico para la empresa. No existen necesidades tales como transporte de materias primas ó productos finales.
 De todos modos se evaluará la localización de las oficinas de acuerdo a costos de transporte.
 
-*TODO*:
-	- donde se capacitará?
-	- en caso de desarrollar software. donde y como?
 
 Proyectos Complementarios:
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Se tendrá un laboratorio de prueba donde de realizaran escenarios posibles de migración antes de realizarlas en lugares de producción.
 
-*TODO*: dimensionar el laboratorio.
-
+Dimensión del laboratorio aproximada: 8 worstations y 2 servers.
 
 Escalas de producción:
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -197,18 +144,26 @@ Se necesitará de una conexión de alta velocidad y disponibilidad a Internet, que
 Personal:
 ~~~~~~~~~
 
-Es el área mas crítica para nuestro caso. Se requiere un grupo de personal especializado en distintas áreas de tecnología informática.
-también debe haber una mesa de ayuda con alta disponibilidad para los clientes.
+Es el área mas crítica para nuestro caso. Se requiere un grupo de personas especializadas en distintas áreas de tecnología informática.
+También debe haber una mesa de ayuda con alta disponibilidad para los clientes.
 
-*TODO*: 
-	- ver la factibilidad de encontrarlas en el mercado actual.
-	- dimensionar la cantidad de personas.
-	- enumerar especializaciones.
+En Mendoza todas las universidades y varios institutos cuentan con carreras informáticas, por lo que estimamos que será factible conseguir personal calificado.
 
-	
+*TODO*: número de estudiantes de TI en mza!
+
+En base al número aproximado de migraciones que se realizarán en el primer año (ver flujo de caja), el personal con que se contará sera:
+
+	* 3 personas especializadas en la parte de desktop.
+	* 4 personas especializadas en la parte de servidores.
+	* Secretaria para atención al cliente.
+
+Serán estas personas quienes realicen los servicios de migración, soporte, y capacitación.
+
+En un futuro se evaluará incorporar programadores para poder ofrecer un servicio de desarrollo y adaptación del software.
+
 
 Materias Primas:
 ~~~~~~~~~~~~~~~
 
- - Hardware: TODO
- - Software: Internet será nuestro 'proveedor'
+ - Hardware: Proveedores en Mendoza: Digitell, Air Computer, Dos20.
+ - Software: Internet será nuestro 'proveedor'.

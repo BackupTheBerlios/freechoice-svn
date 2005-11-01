@@ -3,23 +3,16 @@ PARTE 3: MISION
 	
 PROPOSITO
 ~~~~~~~~
-El proposito de la empresa sera el de brindar servicio de migración, soporte, integración, capacitación y extensión de sistemas de software de manera rápida y confiable a universidades y al estado principalmente.
+El proposito de la empresa sera el de brindar servicio de migración, soporte, integración, capacitación y extensión de sistemas de software de manera ágil y confiable a universidades y al estado principalmente.
 La empresa venderá soporte, libertad y transparencia de sistemas de software.
 
 VISION
 ~~~~~~~~
-Proporcionar un servicio de migración rápido y confiable a manos de gente altamente calificada.
+Convertirnos en el soporte necesario para que las organizaciones confíen en el software libre.
 
 MISION
 ~~~~~~~~
-Tener una carta de clientes satisfechos comprometidos con la empresa hacia nuestros servicios y ampliar el mercado a nivel nacional.
-
-/*
-El objetivo a corto plazo es el de convocar gente capacitada y actualizarla en temas relacionados a nuestro negocio  y el de realizar campañas que motiven 
-la migración al software libre. A su vez, a corto plazo se deberá afianzar el nombre de la empresa como una empresa confiable y con recursos humanos altamente capacitados.
-El objetivo a largo plazo es el de tener una carta de clientes satisfechos comprometidos con la empresa hacia nuestros servicios y ampliar el mercado a nivel nacional.
-*/
-
+Brindar un servicio de migración a software libre ágil y confiable a manos de gente altamente calificada.
 
 
 ESTRATEGIA
@@ -43,7 +36,7 @@ ESTRATEGIA
 			exclusiva al servicio de 
 			migración) + Foco (Estado 
 			y Universidades)
-
+--------------------------------------------------------------------------------
 
 ESLOGAN
 -------
