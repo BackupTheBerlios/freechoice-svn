@@ -15,24 +15,9 @@ Benchmarking:
 	. Cursos de Capacitación ya sea en forma grupal o personalizados:
     	El vertiginoso desarrollo del mercado informático exige actualización constante, no basta 		invertir en tecnología, hay que saber usarla, entrenar empleados y clientes a medida de 	las necesidades tecnológicas de su empresa.
 
-    	* Precios:
-	falta.
-
-    	* Estructura:
-	falta.
-
-    	* Procesos:
-	falta.
-
-    	* Recursos humanos:
-	falta.
-
     	* Tecnología:
 	Linux, Unix, Windows, Novell.
-	falta mas.
 
-    	* Imagen:
-	falta.
 	
 	* Competidores directos e indirectos:
 	directo
@@ -40,13 +25,13 @@ Benchmarking:
 Fortalezas: 
 ----------
 
-Poseen mas de 6 años de experiencia con servicios de software libre (Linux).
-Poseen buen posicionamiento y alianzas en Mendoza.
-Poseen productos desarrollados por ellos:
+	* Poseen mas de 6 años de experiencia con servicios de SF (Linux).
 
-	. PuntoCero: Es el producto clave para conectar su empresa a Internet. Por medio de un poderoso Firewall aislará la red interna de la externa (Internet), no corriendo de esta 	forma los riesgos típicos al conectarse con el mundo exterior. Está basado en un robusto sistema operativo inmune a los virus y muy confiable
+	* Poseen buen posicionamiento y alianzas en Mendoza.
 
-Dictan cursos de capacitación sobre servicios de migración al software libre.
+	* Poseen productos para Linux desarrollados por ellos.
+
+	* Dictan cursos de capacitación sobre servicios de migración al software libre.
 
 
 *fuente*: http://www.tecnologia-aplicada.com.ar/intro.html

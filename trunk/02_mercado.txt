@@ -46,6 +46,10 @@ Universidades de Mendoza
 		Maza (100 PCs)
 .................................
 
+*******************
+TOTAL: 2100 PCs
+*******************
+
 *fuente*: Relevamiento realizado por Chuang Po-min - Estudiante de Ingeniería - UM.
 
 
@@ -135,8 +139,8 @@ Otros Organismos (1400 PCs)
 
 .................................
 
-**********************************************
-TOTAL: 6000 PCs (de las cuales 60 son servers)
-**********************************************
+*****************
+TOTAL: 6000 PCs 
+*****************
 
 *fuente*: Sr. Arturo Caridad - Director de Informática y Comunicaciones, Gobierno de Mendoza.

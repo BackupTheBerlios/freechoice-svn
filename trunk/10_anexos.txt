@@ -1,0 +1,16 @@
+Anexos
+------
+
+Factibilidad Técnica: 
+~~~~~~~~~~~~~~~~~~~~~
+
+	Casos problemáticos:
+
+	- algunas macros VB de MsOffice deben ser rescritas como scripts.
+	- antivirus libres :( no son buenos. Considerar alguno pago.
+	- algunos problemas con paquetes para manejar directorios LDAP.
+	- el área de calendario (Outlook) y groupware (Exchange) es débil en SF.
+	- datawarehousing :(. no hay BD distribuidas maduras en SF.
+	- ERP? SAP?
+
+	Existen casos conocidos donde el software libre todavía no es maduro.

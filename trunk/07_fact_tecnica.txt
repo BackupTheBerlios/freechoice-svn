@@ -28,13 +28,13 @@ F. eJustice y transparencia legal
 
 G. eLearning
 
-I. Human resource and career development
+I. Recursos Humanos
 
 J. Gestión de hospitales y centros de salud
 
-K. Public e-procurement
+K. e-Procurement
 
-L. Real estate management and Geoinformation
+L. Sistemas de Geoinformación
 
 M. Seguridad
 
@@ -45,14 +45,7 @@ O. Middleware
 P. Lenguajes de programación, compiladores y herramientas de desarrollo.
 
 
-Casos problemáticos: existen casos conocidos donde el software libre todavía no es maduro.
-
-	- algunas macros VB de MsOffice deben ser rescritas como scripts.
-	- antivirus libres :( no son buenos. Considerar alguno pago.
-	- algunos problemas con paquetes para manejar directorios LDAP.
-	- el área de calendario (Outlook) y groupware (Exchange) es débil en SF.
-	- datawarehousing :(. no hay BD distribuidas maduras en SF.
-	- ERP? SAP?
+Casos problemáticos: ver anexo.
 
 ........................................................
 
@@ -149,17 +142,15 @@ También debe haber una mesa de ayuda con alta disponibilidad para los clientes.
 
 En Mendoza todas las universidades y varios institutos cuentan con carreras informáticas, por lo que estimamos que será factible conseguir personal calificado.
 
-*TODO*: número de estudiantes de TI en mza!
+En base al número aproximado de migraciones que se realizarán en el primer año (ver flujo de caja), el personal con que se contará inicialmente será:
 
-En base al número aproximado de migraciones que se realizarán en el primer año (ver flujo de caja), el personal con que se contará sera:
-
-	* 3 personas especializadas en la parte de desktop.
-	* 4 personas especializadas en la parte de servidores.
+	* 3 personas especializadas en la parte de desktop + Jefe Area desktop.
+	* 2 personas especializadas en la parte de servidores + Jefe Area servidores.
 	* Secretaria para atención al cliente.
 
 Serán estas personas quienes realicen los servicios de migración, soporte, y capacitación.
 
-En un futuro se evaluará incorporar programadores para poder ofrecer un servicio de desarrollo y adaptación del software.
+En un futuro se evaluará agregar más personal (ver parte 8) e incorporar programadores para poder ofrecer un servicio de desarrollo y adaptación del software.
 
 
 Materias Primas:

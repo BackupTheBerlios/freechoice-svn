@@ -1,71 +1,43 @@
 PARTE 8: Dirección y Gerencia
 -----------------------------
 
+Como el sitado es un proyecto en Desarrollo, proponemos como Gerente a:
 
-ACCIONISTAS:
-~~~~~~~~~~~~
+*ING. MARCOS PEREYRA*
 
-ING. MARCOS PEREYRA
-ING. DANIEL BELTRON
-
-DATOS RELEVANTES DE CADA ACCIONISTA:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-NOMBRE:  MARCOS PEREYRA
+Datos Importantes:
+~~~~~~~~~~~~~~~~~
+[verse]
+........................................................
+NOMBRE: MARCOS ANTONIO PEREYRA
 NACIONALIDAD: Argentino
-LUGAR DE RESIDENCIA: San Martín 491 <96> Ciudad - Mendoza
-PROFESION: Ingeniero en Informática.
+LUGAR DE RESIDENCIA: San Martín 411  Ciudad - Mendoza
+PROFESION: Ingeniero en Sistemas.
+........................................................
 
 Experiencia laboral relacionada con el negocio que pensamos desarrollar:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1995 - 1997: MIGRONET - . Líder de Proyecto - Sus responsabilidades laborales fueron el desarrollo de un software de ofimática para plataformas Linux que ingreso favorablemente al mercado por su amigable interfase de usuario y por su alto rendimiento
-1997 - 2001: LINUXALL. - Gerente de Marketing -
-             Logró incrementar las ventas en un 40% basándose en estrategias publicitarias y realzó la imagen de la empresa con la que venia decayendo por malas políticas de los anteriores gerentes.
+1995 - 1997: MIGRONET - . Líder de Proyecto
+2002-2005: GOBIERNO DE MENDOZA -Departamento de Informática de la Provincia.
 
-2002-2005: GOBIERNO DE MENDOZA <96> Departamento de Informática de la Provincia. Se modernizaron los  departamentos de informática en los departamentos de San Rafael, San Carlos, Tunuyan y Las Heras. Logró muy buena imagen en su ambiente.
-
-Es miembro de las siguientes organizaciones profesionales:
-        Rotary Club Mendoza.
-        CIDI
+Es miembro de las siguientes organizaciones profesionales: Rotary Club 
+Mendoza. CIDI
 
 Antecedentes personales y educación
 
-Su educación formal superior incluye un título de Ingeniero en Computación obtenido en la UBA, año 1995.
+Su educación formal superior incluye un título de Ingeniero en Sistemas 
+obtenido en la UBA, año 1995 y un MBA en el año 1998.
 
-En su educación formal participó en las siguientes actividades (consejo estudiantil, funcionario del cuerpo estudiantil, fraternidades, clubes, etc.
-
-Sus pasatiempos son: Fútbol, Natación y Ajedrez.
-
-El otro accionista es:
-
-NOMBRE: ING. DANIEL BELTRON
-NACIONALIDAD: Argentino
-LUGAR DE RESIDENCIA: San Lorenzo 444
-PROFESION: Ingeniero en Computación
-
-Experiencia laboral relacionada con el negocio que pensamos desarrollar:
-
-1993 - 1996: SANTER - . <96> Programador <96> Diseñó módulos para el kernel de linux.
-
-1996 - 2004: LINUXALL. <96> Líder de Proyecto <96> Participo en el proyecto LAMP, con excelentes resultados.
-
-Es miembro de las siguientes organizaciones profesionales:
-        Rotary Club Mendoza.
-
-Antecedentes personales y educación
-
-Su educación formal superior incluye un título de Ingeniero en Sistemas obtenido en la UTN (Universidad Tecnológica Nacional) , año 1992.
-
-Sus pasatiempos son: Fútbol y Pedestrismo.
-
-Consultores profesionales
-Es importante que nuestro equipo de asesores profesionales esté constituido antes de comenzar a trabajar en la empresa. La siguiente es una lista de estos asesores profesionales:
-Abogada: Dr. Cristina Minezota
-Contador: Kevin Perez
-Agente de Seguros: Martín Burgos.
-
-Seguros
-Pensamos utilizar los servicios del Sr. Martín Burgos, nuestro agente de seguros. Nuestras  pólizas de seguro y los límites de cobertura son los siguientes:
-El Sr. Burgos nos proporcionará una tabla con todas las pólizas de seguros y los límites de responsabilidad.
+En cuanto a los jefes de Areas, estos se seleccionarán entre los postulantes 
+para los puestos técnicos, según sus antecedentes.
 
 
+Organigrama:
+~~~~~~~~~~~
+
+Veremos dos organigramas a corto y largo plazo respectivamente.
+
+image:BINARIOS/org1.jpg[Organigrama corto plazo]
+
+image:BINARIOS/org2.jpg[Organigrama largo plazo]
