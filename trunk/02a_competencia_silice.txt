@@ -17,18 +17,6 @@ ampliandola a traves del resurso Internet , entrenando los RRHH que hacen
 funcionar su negocio y finalmente gestionando todas las tecnologias 
 disponibles en el mercaso.
 
-Precios
-~~~~~~~~
-falta
-
-Estructura
-~~~~~~~~~~~
-falta
-
-Proceso
-~~~~~~~~
-falta
-
 Recursos humanos
 ~~~~~~~~~~~~~~~~~
 con mas de 20 profesionales universitarios especializados y experimentados.
@@ -44,7 +32,10 @@ Tecnologia
 
 Imagen
 ~~~~~~~
-falta
+Una de las caracteristicas mas salientes de esta compania es que desarrolla y mantiene una gestion fundada en valores. ¡§Todo arranca desde el origen mismo de Silice, cuando surge la necesidad de generarnos nuestra propia fuente de trabajo. Como nacimos? Podria decirse que fue con el gen de la Responsabilidad Social Empresaria. Nos basamos en la famosa regla de oro de la etica: no hacerle a los demas no que no te gustaria que te hagan¡¨, explica el Ingeniero Daniel Caselles, Presidente de la firma. ¡§A ello le sumamos nuestra version proactiva: hacerle a los demas lo que nos gustaria que nos hicieran¡¨, prosigue, aclarando que se propusieron darle aplicacion a estos dos preceptos en todas y cada una de las relaciones como empresa: frente a los clientes, empleados, proveedores, competidores, socios y al propio Estado.
+*fuente*:http://www.iarse.org/site/modules.php?name=News&file=article&sid=633
+
+
 
 Competidores directos e indirectos
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -56,6 +47,18 @@ Poseen buen posicionamiento y alianzas en Mendoza
 	Alianzas internacionales: IBM , SUN , CISCO SYSTEM.
 	Alianzas locales: impsat , ITC
 Poseen gran cantidad de clientes.
+	Fundacion Universitas
+	H. Camara de Diputados de la Provincia de Mza
+	H. Camara de Senadores de la Provincia de Mza
+	HelpDesk Sistema MARIA - Aduana de Mendoza
+	Departamento General de Irrigacion
+	Obras Sanitarias Mendoza
+	Universidad de Mendoza
+	Universidad Nacional de Cuyo
+CONGRESO NACIONAL DE SOFTWARE LIBRE (Diario UNO)
+	La organizacion Usuaria (Asociacion Argentina de Usuarios de la Informatica y las Comunicaciones), como todos los 		anos organizo el Congreso Nacional de Software Libre. En el mismo se presentaron 30 trabajos a nivel nacional (Call 		For Papers-CFP) relacionados con el uso de software libre. 
+	Uno de ellos fue presentado por el Ing Diego Navarro, 	integrante de Silice S.A., cuya tematica fue "Uso de Linux en 	el Desktop y Procesos de Migracion", quedando dentro de los 4 seleccionados para ser presentados en el 	Congreso 		efectuado en Bs. As.
+	http://www.silice.biz/softlibre05/Batalla-x-Desktop.pdf
 
 
 *fuente*: http://www.silice.biz/
