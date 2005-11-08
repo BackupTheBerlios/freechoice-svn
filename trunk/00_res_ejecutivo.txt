@@ -1,105 +1,38 @@
-Resumen Ejecutivo
------------------
+PLAN DE NEGOCIO
+===============
 
 ***************************************
 Freechoice: Servicio de migración a Software Libre
 ***************************************
 
-Enfocado a
-~~~~~~~~~~
-
-* Universidades
-* Estado
+Autores:
+Chuang Po Min, Floreani Luis, Giardina Mariano, Sevilla Alejandro
 
 
-El Software Libre ha logrado un rápido crecimiento respecto a su uso y popularidad en todo el mundo, sin embargo existen ciertas trabas para que este logre ser aceptado completamente como veremos mas adelante.
+Resumen Ejecutivo
+-----------------
+ 
+Freechoice es una empresa dedicada a brindar soporte de Software Libre a organizaciones. Específicamente brindara un servicio de migración, integración, capacitación y extensión de Software Libre.
+
+El foco será el Estado y Universidades de Mendoza.
+
+El problema que hoy enfrentan las organizaciones que desean migrar a un modelo basado en Software Libre, es que se ven dificultadas por la falta de soporte necesario para lograr y confiar en el cambio. 'Freechoice' será el eslabón faltante del Software Libre para que cualquier tipo de organización pueda confiar en él.
+
+Los estudios de mercado indican una demanda actual y se prevee un incremento de esta en lo que respecta a soporte y migración de Software Libre para los próximos años, tanto para organizaciones en general como para el Estado, indicado por la tendencia mundial y gracias a leyes que incentivan el uso de Software Libre en las entidades publicas Argentinas.
+
+Para atender la demanda proyectada, Freechoice contará con un grupo de profesionales altamente capacitados y con amplia experiencia en Software Libre.
+
+Las ventajas competitivas de Freechoice son las siguientes:
+
+* La única empresa en Mendoza dedicada exclusivamente a la migración y soporte de sistemas informáticos basados en Software Libre.
+* Foco en las universidades y el estado.
+* Posibilidad de expansión a nivel nacional.
 
 
+Según los estudios de factibilidad, los principales datos económicos y financieros son los siguientes:
 
-Principales Ventajas del Software Libre
----------------------------------------
-
-* + Total transparencia de lo que el software hace.
-* + Se promueve el uso de formatos de datos abierto y estándares.
-* + En caso de necesitar desarrollar ó adaptar software, el SF posibilita usar piezas de otros programas de SF para construir nuevos sistemas, llevando a:
-	- Disminución de los tiempos de desarrollo.
-	- Disminución de costos.
-	- Aumento de la calidad. 
-
-* + Costos de licencias *.
-* + Menores requerimientos de hardware que alternativas de SP.
-* + Disminuye el riesgo legal en casos de software 'pirata'.
-* + Rápido crecimiento histórico en el uso y desarrollo del SF vs SP.
-* - Falta de soporte, actualmente solo existen foros y sitios webs que ofrecen ayuda, pero no una empresa que brinde soporte de SF.
-* - Posible discontinuidad en el desarrollo.
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-*Freechoice* será quien de confianza y tranquilidad a las organizaciones para que usen SF.
-
-Particularmente, *Freechoice* ofrecerá:
-
-1. Un servicio de migración de SP a SF, con la solución de migrar completamente ó estudiar la posible coexistencia de SF con SP.
-
-2. Soporte técnico a las organizaciones que posean un modelo basado en SF.
-
-3. Capacitación de personal para adaptarse al cambio.
-
-4. Posibilidad de extensión y adaptación de soluciones existentes de SF al modelo de negocio especifico de cada organización.
-
-MERCADO
---------
-Del estudio de mercado se destaca que las barreras de salida son bajas asi como las barreras de salida.
-
-La demanda del estado es aproximadamente de 6000 computadoras. Dato provisto por Sr. Arturo Caridad - Director de Informática y Comunicaciones, Gobierno de Mendoza.
-A su ves la demanda de las universidades es de aproximadamente 2100 computadoras. Dato provisto por Chuang Po-min - Estudiante de Ingeniería - UM.
-
-Competencia
------------
-Actualmente solo hay dos empresas con la capacidad de realizar  los trabajos que se propone hacer Free Choice. Estas dos empresas son: 
-Silice y Tecnología Aplicada.
-Ninguna de las dos empresas se dedica exclusivamente al negocio propuesto por Free Choice.
-
-MISION
-------
-PROPOSITO
-~~~~~~~~
-El proposito de la empresa sera el de brindar servicio de migración, soporte, integración, capacitación y extensión de sistemas de software de manera ágil y confiable a universidades y al estado principalmente.
-La empresa venderá soporte, libertad y transparencia de sistemas de software.
-
-VISION
-~~~~~~~~
-Convertirnos en el soporte necesario para que las organizaciones confíen en el software libre.
-
-MISION
-~~~~~~~~
-Brindar un servicio de migración a software libre ágil y confiable a manos de gente altamente calificada.
-
-
-ESTRATEGIA
-----------
-
-La Estrategia de la empresa estara basada en la diferenciacion y el foco.
-Con recursos humanos altamente capacitados la empresa logrará realizar sus trabajos en tiempos mínimos brindando a la vez seguridad a sus clientes.
-	ESLOGAN
-      -------
-	"Free Choice: libertad y transparencia" 
-
-FACTORES CRÍTICOS DE EXITO
---------------------------
-Recursos humanos: 
-~~~~~~~~~~~~~~~~~~
-Será critica la capacitación permanente del personal.
-
-Plazo de entrega: 
-~~~~~~~~~~~~~~~~~~
-Para que la migración sea exitosa se deberán cumplir con los plazos de entrega, ya que mientras se migran los sistemas puede que los clientes no puedan operar normalmente.
-Ver Factibilidad técnica para las posibles estrategias de migración.
-
-Imagen: 
-~~~~~~~
-La empresa deberá tener una imagen que de confianza y seguridad a los clientes.
-
-En situaciones donde no exista una solucion de SF, se optara por una opcion comercial bajo Linux
-
+- Inversión neta:
+- Necesidad de financiamiento:
+- Valor Actual Neto:
+- Tasa Interna de Retorno:
 

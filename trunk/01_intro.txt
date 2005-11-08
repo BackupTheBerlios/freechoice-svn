@@ -1,12 +1,3 @@
-PLAN DE NEGOCIO
-===============
-
-***************************************
-Freechoice: Servicio de migración a Software Libre
-***************************************
-
-Autores:
-Chuang Po Min, Floreani Luis, Giardina Mariano, Sevilla Alejandro
 
 PARTE 1: INTRODUCCION
 ---------------------
