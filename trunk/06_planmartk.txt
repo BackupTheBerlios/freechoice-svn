@@ -19,13 +19,9 @@ PRECIO
 
 Inicialmente, nuestra capacidad de influir sobre el precio se verá limitada por lo que perciba la competencia (si bien es escasa, los tomaremos de referencia). Sin embargo, esperamos que las recomendaciones de nuestros clientes consoliden nuestro negocio y que los servicios que ofrecemos se coticen a una tarifa algo superior a la promedio.
 
-Servidores y estaciones de trabajo: $40 por hora, la  demora promedio en la instalación es de 2 para un servidor y de 1 para una estación de trabajo.
+Servidores y estaciones de trabajo: $60 por hora, la  demora promedio en la instalación es de 2 para un servidor y de 1 para una estación de trabajo.
 
 Actualmente la competencia esta cobrando entre $50 y $60 la hora.
-
-(ANALISIS DE SENSIBILIDAD)
-
-(ANALISIS DE COSTOS)
 
 
 DISTRIBUCIÓN
@@ -91,20 +87,6 @@ Publicidad en revista Pyme:
 Publicidad Diario (Clarín Los Andes, UNO) (permutando 1 mes en cada uno):
 Mantenimiento del Sitio WEB:
 Personal Dedicado a la oferta a Empresas:
-
-
-RECURSOS HUMANOS
-~~~~~~~~~~~~~~~~
-
-(ORGANIGRAMA OPTIMO DE LA EMPRESA)
-
-(ORGANIGRAMA MINIMO) es el inicial
-
-Cantidad de personas necesarias ( entre 2 a 5 años)
-
-Costos de contratación y remuneración
- 
-
 
 
 

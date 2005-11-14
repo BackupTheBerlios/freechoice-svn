@@ -3,7 +3,7 @@ PARTE 3: MISION
 	
 PROPOSITO
 ~~~~~~~~
-El proposito de la empresa sera el de brindar servicio de migración, soporte, integración, capacitación y extensión de sistemas de software de manera ágil y confiable a universidades y al estado principalmente.
+El proposito de la empresa sera brindar un servicio de migración, soporte, integración, capacitación y extensión de sistemas de software de manera ágil y confiable a universidades y al estado principalmente.
 La empresa venderá soporte, libertad y transparencia de sistemas de software.
 
 VISION
@@ -40,11 +40,7 @@ ESTRATEGIA
 
 ESLOGAN
 -------
-	"Free Choice: libertad y transparencia" 
-
-	"Free Choice: su camino al futuro"
-
-	"Free Choice: libertad para tus negocios"
+	"Free Choice: libertad y transparencia en sus negocios" 
 	
 
 image:BINARIOS/logo.jpg[Logo Freechoice]

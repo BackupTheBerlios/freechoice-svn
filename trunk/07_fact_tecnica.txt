@@ -144,8 +144,8 @@ En Mendoza todas las universidades y varios institutos cuentan con carreras info
 
 En base al número aproximado de migraciones que se realizarán en el primer año (ver flujo de caja), el personal con que se contará inicialmente será:
 
-	* 3 personas especializadas en la parte de desktop + Jefe Area desktop.
-	* 2 personas especializadas en la parte de servidores + Jefe Area servidores.
+	* 2 a 3 personas especializadas en la parte de desktop + Jefe Area desktop.
+	* 1 a 2 personas especializadas en la parte de servidores + Jefe Area servidores.
 	* Secretaria para atención al cliente.
 
 Serán estas personas quienes realicen los servicios de migración, soporte, y capacitación.

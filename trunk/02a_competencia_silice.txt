@@ -23,11 +23,11 @@ con mas de 20 profesionales universitarios especializados y experimentados.
 
 Tecnologia
 ~~~~~~~~~~~
--sistemas operativos para servidores
+- sistemas operativos para servidores
 (unix,linux,os-400,windows 2003, etc)
--sistemas operativos para puestos de trabajo
+- sistemas operativos para puestos de trabajo
 (linux,macos, windows 98 , xp , 2000, etc)
--servidores de aplicacion
+- servidores de aplicacion
 (TomCat , Oracle IAS, Websphere , etc)
 
 Imagen
