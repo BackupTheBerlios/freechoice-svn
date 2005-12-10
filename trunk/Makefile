@@ -44,4 +44,4 @@ all:
 	firefox all.html &
 
 clean:
-	rm -rf *~ *.html *.doc
+	rm -rf *~ *.html

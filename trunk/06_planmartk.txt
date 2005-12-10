@@ -4,89 +4,115 @@ PARTE 6: Plan de Marketing:
 PRODUCTOS/SERVICIOS
 ~~~~~~~~~~~~~~~~~~~
 
-El servicio a prestar esta basado en la migración completa a software libre o la instalación del mismo si no hay implementación alguna. Nuestra intención es evaluar el éxito de cada instalación y hacer el seguimiento para realizar las modificaciones necesarias que mejoren la eficacia a cada cliente.
+El servicio a prestar esta basado en la migración completa a software libre o la instalación del mismo si no hay implementación alguna. Nuestra intención es evaluar el éxito de cada instalación y hacer el seguimiento de la adaptacion del cliente al sistema.
 
 Para mas detalles del producto/servicios ver factibilidad técnica.
 
-Los beneficios son amplios y contundentes, considerando como base la amplia comunidad de desarrollo que actualmente en auge lidera los grupos de desarrollo. 
+Los beneficios son amplios y contundentes, considerando como base la amplia comunidad de desarrollo que actualmente en auge lidera los grupos de desarrollo.
 
 La independencia tecnológica: mediante el uso de software libre, la empresa (o Estado) deja de tener sus sistemas controlados por una entidad externa (con frecuencia empresas extranjeras). De esta forma se rompe la dependencia tecnológica que lo tiene actualmente atado, obteniendo las libertades que el software libre otorga.
+
 El control de la información al tener la libertad de inspeccionar el mecanismo de funcionamiento del software y la manera en que almacena los datos, sumado a la posibilidad de modificar( o contratar con alguien que modifique )estos aspectos, quedando en manos de las empresas el acceso a la información y no en manos de terceros ajenos.
-La seguridad es uno de los puntos claves, mucha información puede ser peligrosa en manos incorrectas. Es critico que la Empresa pueda fiscalizar que su software no tenga puertas de entradas traseras (backdoors), ya sean voluntarias o accidentales, que pueda cerrarlas en caso de encontrarlas, esta inspección solo es posible en el caso de software libre.
+ La seguridad es uno de los puntos claves, mucha información puede ser peligrosa en manos incorrectas. Es critico que la Empresa pueda fiscalizar que su software no tenga puertas de entradas traseras (backdoors), ya sean voluntarias o accidentales, que pueda cerrarlas en caso de encontrarlas, esta inspección solo es posible en el caso de software libre.
+
+
+DISEÑO DEL LOGO
+~~~~~~~~~~~~~~~
+
+Considerando que el nombre es un aspecto fundamental de la marcación y de la capacidad identificadora de un signo puramente verbal pensamos en crear una identidad visual fácil de recordar y con el contenido implícito de comunicar el negocio, basándonos en la sencillez visual del logotipo.
+El Nombre, logotipo e isotipo pueden denotar por vía verbal, tipográfica e icónica, la presentación general de una empresa y el origen o fuente del negocio.
+Los Logotipos e isotipos, aunque sean de tamaño reducido, pueden ser tan efectivos como toda una campaña publicitaria ya que es un elemento de identificación homologado.
+Este pequeño diseño, no sólo identifica la identidad de la empresa y el origen del negocio, sino que puede crear una imagen de la misma que se amplifica a través del propio producto o servicio.
+
+La idea principal fue utilizar la imagen de la materia prima en nuestro negocio, que es un pingüino debido a que el mayor exponente en software libre es linux y siendo la imagen del mismo un pingüino, además se buscó representarlo de la forma mas simple y con el color negro ya que los colores que identifican a un este animal es el blanco y negro, trayendo el color blanco problemas a futuro en temas de folleteria.
+
+El nombre FREE CHOICE, nace de la idea de imponer el mensaje de libertad en los negocios, y la necesidad de un cambio para obtener dicha libertad.
+
+image:BINARIOS/logo.jpg[Logo Freechoice]
+
 
 PRECIO
 ~~~~~~
 
-Inicialmente, nuestra capacidad de influir sobre el precio se verá limitada por lo que perciba la competencia (si bien es escasa, los tomaremos de referencia). Sin embargo, esperamos que las recomendaciones de nuestros clientes consoliden nuestro negocio y que los servicios que ofrecemos se coticen a una tarifa algo superior a la promedio.
-
-Servidores y estaciones de trabajo: $60 por hora, la  demora promedio en la instalación es de 2 para un servidor y de 1 para una estación de trabajo.
-
-Actualmente la competencia esta cobrando entre $50 y $60 la hora.
-
+Inicialmente, nuestra capacidad de influir sobre el precio se verá limitada por lo que perciba la competencia (si bien es escasa, los tomaremos de referencia). Sin embargo, esperamos que las recomendaciones de nuestros clientes consoliden nuestro negocio y que los servicios que ofrecemos se coticen a una tarifa algo superior a la promedio.
 
 DISTRIBUCIÓN
 ~~~~~~~~~~~~
 
-La distribución se hará en forma directa, no participaran intermediarios. Nuestros operadores se trasladaran al domicilio de la Empresa o institución para evaluar las posibilidades y presupuestar el trabajo.
-El alcance pensado es el Gran Mendoza, ya que contamos con suficientes posibles clientes, pero sin dejar de esperar un crecimiento a un nivel provincial.
-(mapa gran Mendoza)
+La distribución se hará en forma directa, no participaran intermediarios. Nuestros operadores se trasladaran al domicilio de la Empresa o institución para evaluar las posibilidades y presupuestar el trabajo. El alcance pensado es el Gran Mendoza, ya que contamos con suficientes posibles clientes, pero sin dejar de esperar un crecimiento a un nivel provincial.
+
+image:BINARIOS/mapa.jpg[Mapa Mendoza]
 
 El establecimiento será en el centro de la Capital, si bien no es necesario una gran infraestructura ya que el servicio que vendemos no esta dirigido a la población general, sino a empresas que ante la necesidad o nuestra oferta personalizada accedan al cambio.
+
 
 
 COMUNICACIÓN
 ~~~~~~~~~~~~
 
-El objeto de la comunicación será darle a conocer al las empresas las ventajas del uso del software libre, principalmente "Libertad y Transparencia en sus negocios".
-Los medios de comunicación para promover el servicio serán: 
-	Medios Masivos: 	Radios: MITRE
-				Revistas: PYME
-				Diarios: Clarín, Los Andes, UNO
-				Paginas Amarillas
+El objeto de la comunicación será darle a conocer al las empresas las ventajas del uso del software libre, principalmente "Libertad y Transparencia en sus negocios". Los medios de comunicación para promover el servicio serán: Medios Masivos: Radios: MITRE Revistas: PYME Diarios: Clarín, Los Andes, UNO 
+Marketing Directo: Personal de Ventas: El personal visitara a las distintas empresas ofreciendo el servicio.
+Licitaciones: Presensación a llamados de licitación en entidades públicas.
+Internet: Sitio Web propio
+Boca a Boca: Recomendaciones de nuestros clientes.
 
-Marketing Directo:	Personal de Ventas: El personal visitara a las distintas empresas ofreciendo el servicio.
+RECURSOS HUMANOS
+~~~~~~~~~~~~~~~~
 
-Licitaciones:	Presensación a llamados de licitación en entidades públicas.
+El capital  humano estará compuesto inicialmente por:  
 
-Internet:	Sitio Web propio
+ -Ingenieros Informático
+ -Secretaria Administrativa
+ -Vendedor
+ -Tecnico informáticos
+ -Especialista en networking
+ -Tercerizados : Contador, Abogado y Personal de Limpieza
 
-Boca a Boca: 	Recomendaciones de nuestros clientes.
-
-
-PLAN DE COMUNICACIONES ( 1ER AÑO)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* Mes 1:
-Publicidad Radio:
-Publicidad en revista Pyme:
-Publicidad Diario Clarín:
-Publicidad Diario Los Andes:
-Publicidad Diario UNO:
-Mantenimiento del Sitio WEB:
-Personal Dedicado a la oferta a Empresas:
-
-* Mes 2:
-Publicidad Radio:
-Publicidad en revista Pyme:
-Publicidad Diario Clarín:
-Publicidad Diario Los Andes:
-Publicidad Diario UNO:
-Mantenimiento del Sitio WEB:
-Personal Dedicado a la oferta a Empresas:
-
-* Mes 3:
-Publicidad Radio:
-Publicidad en revista Pyme:
-Publicidad Diario Los Andes:
-Mantenimiento del Sitio WEB:
-Personal Dedicado a la oferta a Empresas:
-
-* Mes 4 a 12:
-Publicidad Radio:
-Publicidad en revista Pyme:
-Publicidad Diario (Clarín Los Andes, UNO) (permutando 1 mes en cada uno):
-Mantenimiento del Sitio WEB:
-Personal Dedicado a la oferta a Empresas:
+image:BINARIOS/org.jpg[Organigrama]
 
 
+GESTIÓN Y PERSONAL
+~~~~~~~~~~~~~~~~
 
+Estructura de la organización
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Los accionistas son Chuan Po Min , Sevilla Alejandro, Giardina Mariano, Floreani Luis, quienes disponen de una larga experiencia profesional en diferentes proyectos. 
+Se contará con el asesoramiento de profesionales de diferentes áreas que participan  en nuestros negocios. (Contador, Abogado, Auditores, etc). 
+
+Existen 3 áreas diferenciadas: Marketing, Ingeniería y Finanzas.
+Habitualmente disponemos de personas directamente vinculadas con marketing y Finanzas. Además, a nivel de personal técnico calificado contaremos con profesionales del área informática y redes, teniendo en cuenta las necesidades que origina la proyectada expansión
+territorial de nuestras ventas.
+
+Los operarios se han capacitado o se capacitarán de acuerdo a las tareas
+asignadas. Para épocas de alta demanda se contratan con más operarios (comienzo del proyecto).
+Los socios nos ocupamos directamente de los máximos niveles de gestión.
+
+
+PUESTOS REQUERIDOS
+^^^^^^^^^^^^^^^^^^
+
+Dirección
+En este caso estará integrada por los accionistas, quienes pertenecen al ámbito de este tipo de negocios y tienen conocimientos técnicos como administrativos. El directorio será el responsable de la gestión administrativa y financiera de la empresa.
+
+Secretaria - Atención al Cliente
+Será la encargada de la atención al público y el asesoramiento, es necesario cierto conocimiento técnico para desempeñar este puesto y entusiasmo para realizarlo. Además se requerirá experiencia previa en labores similares.
+
+Puesto Comercial
+Será el encargado de visitar a las empresas ofreciendo nuestros servicios. Debe poseer habilidad para los negocios y atención al público.
+
+Puesto de Técnico de Instalaciones
+Serán los encargados de la instalación, migración y mantenimiento de los servicios. Se requerirá personal con estudios terciarios o universitarios en el área informática.
+
+Servicio de Limpieza y mantenimiento de las instalaciones.
+Se requerirá una persona para realizar la limpieza de las instalaciones.
+ 
+
+GESTION DE RECURSOS HUMANOS
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Selección, Contratación e Inducción:
+Se seleccionarán residentes del Gran  Mendoza y será a través de anuncios en los periódicos locales, evaluando sus antecedentes laborales y sus estudios. Una vez seleccionado y contratado se lo integrara al grupo de trabajo.
+
+Retribución e Incentivos:
+Se incentivará a los empleados con premios al rendimiento y eficacia, además de los servicios sociales y ART.

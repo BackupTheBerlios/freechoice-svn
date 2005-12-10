@@ -43,4 +43,3 @@ ESLOGAN
 	"Free Choice: libertad y transparencia en sus negocios" 
 	
 
-image:BINARIOS/logo.jpg[Logo Freechoice]
